@@ -1,0 +1,101 @@
+[VOICE/NARRATION]: Off
+Paranoia: Segment IV, Entrapment Phase
+
+[FORMAT]
+duration: 25 seconds
+resolution: 8K-UHD
+fps: 48
+segment_sec: 1.4–1.8
+mode: montage
+tempo_factor: 1.9
+
+[STYLE]
+Cold aftermath, controlled motion, no calm holds
+
+
+STYLE:
+Narrative Arc: paranoia → distortion → rebellion → rupture → silence
+Visual Mood: cold silver-blue monochrome; low-key lighting; shallow depth; breathing light, not breathing geometry; reflections feel heavy and reluctant; glass under tension
+Setting: bedroom lined with tall, rigid glass mirrors; their surfaces behave like strained solid glass under invisible pressure—distortion appears locally at edges, corners, and points of contact, not as soft global wobble; air remains perfectly dry
+Protagonist: @artexmg.evelyn  who is dressing in light nightgown; mid 20s; long dark hair; expressive eyes
+Antagonist: her distorted reflection that gradually gains autonomy and malevolence; the reflection behaves as if imprisoned behind hard glass, always pushing against it rather than flowing freely
+
+GLOBAL VISUAL / CAMERA / LIGHTING
+
+Render engine: path-traced PBR with caustics and volumetrics
+Camera lenses: 35 mm anamorphic (primary), 50 mm macro (close), handheld dolly and orbit shots
+Motion blur: 180 degrees shutter / 1⁄48 s exposure
+Lens effects: subtle barrel distortion (0.5 %), chromatic fringing (±0.5 %), optical breathing 1 %
+Film look: 35 mm LUT, ISO 320, fine grain; halation on speculars
+
+Lighting design: flicker sine 0.5 Hz + strobe bursts 2 Hz + occasional blackout frames
+Color palette: black / gunmetal / pale cyan highlights
+Environment haze: volumetric density 0.25; absorption 0.6
+
+Mirror behavior:
+Mirrors are optically sharp, rigid glass with hard edges and crisp specular highlights.
+No soft, rubbery, or jelly-like deformation.
+Distortion is localized, asymmetric, and appears only near: frame edges, corners, and where her body, breath, or hands approach.
+Motion in the glass is reluctant and delayed, as if the material resists before yielding.
+Mirror shader:
+Base refractive index 1.52 (realistic glass); during “pull” transition, stress-fracture shears and edge warping occur while refractive index shifts 1.55 → 1.33 along crack lines only.
+Brief micro-cracks and stress lines flash for 1–2 frames before any major deformation, then heal.
+
+Distortion hierarchy (very important):
+At any moment, prioritize ONE hero effect only:
+Either refraction warping OR temporal echo OR chromatic aberration—never all at full strength simultaneously.
+
+[SEGMENTS]
+
+0.00–1.6
+Underwater-like void — bubbles rise, slow drift
+
+1.6–3.2
+Camera rotates — room visible above through rigid plane
+
+3.2–4.8
+She floats — hair physics accurate, no slow-mo cheat
+
+4.8–6.4
+Mirror surface above perfectly flat, resealed
+
+6.4–8.0
+Cut outside — new version of her enters room
+
+8.0–9.6
+Inside POV — she tries to match movement
+
+9.6–11.2
+Mismatch — delay 0.06s
+
+11.2–12.8
+She presses glass from inside — localized distortion only
+
+12.8–14.4
+Outside version ignores it completely
+
+14.4–16.0
+Camera alternates POVs rapidly
+
+16.0–17.6
+Reflections now behave normally outside
+
+17.6–19.2
+Inside she cannot sync timing anymore
+
+19.2–20.8
+Final attempt — full force push against glass
+
+20.8–22.4
+No fracture, no failure
+
+22.4–23.8
+Mirror becomes perfectly still
+
+23.8–24.8
+Flat, rigid, silent frame
+
+[AUDIO]
+Heartbeat decelerates → disappears
+Low sterile hum remains
+High frequencies fade out

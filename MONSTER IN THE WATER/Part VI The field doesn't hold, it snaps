@@ -1,0 +1,101 @@
+[VOICE]: Off
+[FORMAT]
+resolution: 8K-UHD 48fps
+segment_sec: 2.0
+mode: montage
+tempo_factor: 1.8-2.2
+[STYLE]
+Hyperreal live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; grounded physics
+[NEGATIVE PROMPT]
+NO cartoon or anime look
+No painterly texture
+No cel-shade
+No comic-book ink
+No glossy game CG
+No time-remap
+No frameholds > 0.01s
+
+ANCHOR: @Image1 at 0.00s already in motion
+– helicopter unstable
+– @Murky Kraken advancing
+– sand + mist already disturbed
+
+⚠️ This one is high kinetic density. No dead frames.
+
+[SEGMENTS — 15s | aggressive tempo]
+Scene 1
+@Image1 fills frame already in movement;
+FIELD OVERLOAD — PRE-SNAP
+Camera low, tracking backward fast; sand and debris still sliding toward @Murky Kraken 
+Then suddenly:
+everything stutters laterally (not time glitch—mass resistance breaking).
+
+Scene 2
+SNAP EVENT — DIRECTIONAL RELEASE
+Without warning, the entire pulled field releases sideways—
+sand, water, debris, mist all blast left-to-right across frame in a dense sheet.
+
+Scene 3
+GROUND VIOLENCE — HUMAN SCALE
+Camera tumbles with an operator; body dragged sideways across wet sand; rifle skips and spins; impact feels heavy, friction visible.
+
+Scene 4
+HELICOPTER — SLINGSHOT EFFECT
+Helicopter suddenly jerks laterally—not up/down—
+it’s thrown sideways across its own flight path; pilot fights yaw; rotor blur slices through mist wall.
+
+Scene 5
+@Murky Kraken — STABILITY THROUGH CHAOS
+Unlike everything else, the creature holds position; tendrils anchor deep; body flexes against the release; scale contrast becomes terrifying.
+
+Scene 6
+TENDRIL STRIKE — FIRST DIRECT OFFENSE
+One tendril whips across frame at extreme speed; it doesn’t flail—
+it targets a moving object mid-air (debris / equipment / near helicopter path).
+
+Scene 7
+IMPACT — MID-AIR COLLISION
+Tendril connects with airborne mass; object redirects violently downward; water erupts on impact; spray forms a dense vertical column.
+
+Scene 8
+CAMERA CHASE — LOW SKIM
+Camera races just above ground, tracking debris being dragged sideways; sand ripples like fluid; small rocks tumble in continuous motion.
+
+Scene 9
+
+HELICOPTER RECOVERY ATTEMPT
+Aircraft stabilizes briefly—
+then nose dips again as residual flow pulls it diagonally; pilot overcorrects; frame vibrates with mechanical strain.
+
+Scene 10
+SECONDARY SNAP — PARTIAL REVERSAL
+A smaller field fluctuation occurs—
+not full collapse—
+but enough to jerk debris back slightly, creating chaotic cross-currents.
+
+Scene 11
+@Murky Kraken ADVANCE — FULL COMMIT
+
+Creature lunges forward—not upward—
+horizontal aggression; limbs drive through sand; each step displaces mass in thick waves.
+
+Scene 12
+CLOSE PASS — THREAT PROXIMITY
+Camera passes under a moving limb; scale overwhelms frame; underside textures wet, heavy, dragging; droplets streak past lens.
+
+Scene 13
+HELICOPTER IN CROSSFLOW
+Aircraft enters intersecting debris stream; visibility drops; rotor wash fights sideways flow; structure begins to lose clean control lines.
+
+Scene 14
+TARGET ALIGNMENT — FINAL INTENT
+@Murky Kraken’s head stabilizes mid-motion; eyes lock onto helicopter—not the ground team anymore.
+
+Scene 15 (END HOOK)
+PRE-STRIKE — CUT BEFORE CONTACT
+A tendril coils backward with clear intent
+tension builds
+release about to happen
+Stop motion before strike.

@@ -1,0 +1,94 @@
+[VOICE]: Off
+[FORMAT]
+resolution: 8K-UHD 48fps
+segment_sec: 2.0
+mode: montage
+tempo_factor: 1.8-2.2
+[STYLE]
+Hyperreal live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; grounded physics
+[NEGATIVE PROMPT]
+NO cartoon or anime look
+No painterly texture
+No cel-shade
+No comic-book ink
+No glossy game CG
+No time-remap
+No frameholds > 0.01s
+
+[CHARACTER]
+@Murky Kraken — grotesque skeletal octopus-like titan, wet organic mass, pressure-driven physiology
+
+[SEGMENTS]
+6 segments with 2 scenes each of live-action video based from the reference image @Image1 ;  Anchor image fills frame already in movement;
+start anchor-reference image @Image1   at .00-.01s, Anchor image fills frame already in movement; following segments MUST be < 2.0 s each; 
+
+
+[SEGMENTS — 15s / high tempo]
+
+Start from your frame: the creature @Murky Kraken face locked, mouth open, targeting humans
+
+Scene 1
+TARGET LOCK — CONTINUATION
+
+Extreme close: @Murky Kraken ’s eyes stabilize; micro-movements stop; mouth remains open but no roar; throat interior begins to vibrate subtly.
+
+Scene 2
+BUILDUP — INTERNAL PRESSURE
+
+Camera pushes toward mouth; inside the throat, a white, dense condensation forms, like pressure fog; surrounding tissue tightens; droplets reverse direction slightly (inward pull).
+
+Scene 3
+GROUND POV — WRONG READ
+
+Operators hesitate—guns still up; one steps forward half a pace; nothing looks like a “shot”… yet.
+
+Scene 4
+RELEASE — INITIAL DISCHARGE
+
+Without warning, a tight, high-velocity white jet erupts forward; not fire—
+a compressed stream of vapor + particulate + force; air distorts heavily around it.
+
+Scene 5
+IMPACT — SHOCKWAVE FRONT
+
+Jet hits shoreline; water instantly flattens outward; sand and debris blast radially; two operators are thrown backward; camera jolts with concussive force.
+
+Scene 6
+CONTINUOUS STREAM — SWEEP
+
+The creature tracks horizontally while releasing; beam sweeps left to right; rocks fracture; shallow water peels back in layers; mist becomes a solid wall.
+
+Scene 7
+HELICOPTER INTERFERENCE
+
+Helicopter tries to climb; edge of the stream clips rotor wash zone; turbulence spikes violently; aircraft destabilizes—not explosion, but loss of control.
+
+Scene 8
+ENVIRONMENTAL DAMAGE — SCALE SELL
+
+Wide low angle: the jet carves a visible path across shoreline; water displaced into a rolling wall; cables and equipment ripped loose and dragged.
+
+Scene 9
+CUT STREAM — RESIDUAL FORCE
+
+Discharge stops abruptly; lingering pressure wave continues forward; loose debris still traveling; environment keeps moving after source stops.
+
+Scene 10
+AFTERMATH — HUMAN SCALE RESET
+
+Camera low behind a fallen operator; ringing silence feel (no audio needed); water slowly rushing back; visibility still low; figures trying to move.
+
+Scene 11
+CREATURE ADVANCE — NEW STATE
+
+Creature lowers itself closer to land; limbs reposition with intent; no frenzy now—controlled movement.
+
+Scene 12 (END HOOK)
+CLOSE — SECOND BUILDUP (WORSE)
+
+Back to face: throat begins compressing again—
+but now the internal glow/condensation is deeper and larger.
+
+Stop before second release.

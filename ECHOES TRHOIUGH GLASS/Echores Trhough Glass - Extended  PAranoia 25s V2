@@ -1,0 +1,170 @@
+ECHOES THROUGH GLASS — EXTENDED PARANOID CUT (25s)
+
+(Unified prompt — original + extended arc)
+(Based on your source structure and montage spec )
+
+[FORMAT]
+
+duration: 25 seconds
+resolution: 8K UHD
+fps: 24–48
+segment_sec: < 2.0
+mode: montage
+tempo_factor: 2.0
+
+[STYLE]
+
+Psychological horror / surreal realism
+Hyper-real live-action IMAX-scale
+Path-traced PBR with caustics and volumetrics
+Cold silver-blue monochrome palette
+Liquid mirror physics / dry air
+
+[NEGATIVE PROMPT]
+
+ZERO stylization
+NO cartoon / anime / painterly / CG look
+NO slow motion
+NO time remap
+NO frame holds > 0.01s
+NO captions
+
+[ENVIRONMENT]
+
+Bedroom fully lined with mirrors behaving as fluid membranes
+Air remains perfectly dry
+Volumetric haze density 0.25
+Absorption 0.6
+
+[CHARACTERS]
+
+Protagonist: @evacaridad — long dark hair, expressive eyes, wearing pajamas
+Antagonist: her reflection gaining autonomy
+
+[CAMERA / OPTICS]
+
+35 mm anamorphic (primary), 50 mm macro (close)
+Handheld + motivated motion only
+Rolling shutter jitter 12–18% under stress
+Lens breathing ~1%
+Subtle chromatic aberration ±0.5%
+180° shutter
+
+[LIGHTING]
+
+Low-key, cold cyan highlights
+Flicker base 0.5 Hz
+Strobe bursts 2 Hz
+Occasional blackout frames
+Halation on speculars
+
+[AUDIO]
+
+Dark electro / industrial (98–112 BPM)
+Heavy sub-bass pulses
+No voice-over
+Heartbeat layer: 90 → 140 → collapse → glitch return
+Whispers: wide stereo, long reverb
+
+⚡ [SEQUENCE — CONTINUOUS FLOW]
+[0.00–2.00] — Pulse Ignition
+
+Macro on her eye. Reflections pulse with heartbeat.
+Micro air refraction shimmer (IOR 1.005).
+Sub-bass heartbeat begins. Whisper: “wake up.”
+
+[2.00–4.00] — Room Awakens
+
+She rises. Mirrors ripple first.
+Droplet simulation, low damping.
+Handheld pan with jitter.
+
+[4.00–6.00] — Echo Lag
+
+Reflection lags, multiplies (×4 layers).
+Temporal ghost offset 0.08 s.
+Metallic ticking L→R.
+
+[6.00–8.00] — Mirrors Breathe
+
+Walls inhale/exhale (soft-body amplitude 0.04 m).
+Condensation climbs upward.
+Fog turbulence increases.
+
+[8.00–10.00] — Faces in Glass
+
+Rapid 5-frame cuts.
+Multiple reflections surround her.
+Chromatic distortion spikes.
+Whispers intensify.
+
+[10.00–12.00] — Scream Through Water
+
+Reflection screams silently.
+Audio delayed.
+Underwater warp refraction.
+Heartbeat peaks ~140 bpm.
+
+[12.00–14.00] — The Pull
+
+Reflection arm breaks through.
+Fluid–solid interaction.
+Violent drag into mirror.
+Whip-pan into submerged POV.
+
+[14.00–15.00] — Submersion Silence
+
+Underwater void.
+Hair floats upward.
+Mirror seals.
+Heartbeat collapses → silence.
+
+[15.00–17.00] — Residual Drift
+
+Particles drift… then converge into a faint human silhouette.
+Bubble direction briefly reverses.
+Focus hunts incorrectly.
+Heartbeat tries to return (irregular ~40 bpm).
+
+[17.00–19.00] — Mirror Reopens
+
+Mirror bulges inward from outside pressure.
+Refractive index spikes 1.33 → 1.60.
+External silhouettes visible—multiple versions of her.
+
+[19.00–21.00] — Inversion Contact
+
+A hand presses from outside—her hand, anatomically wrong.
+Inverse joint bending.
+Skin behaves like glass-fluid hybrid.
+Whisper chorus returns ×6.
+
+[21.00–23.00] — Breach Reversal
+
+Gravity flips toward mirror (g = +9.8 m/s²).
+All particles accelerate toward surface.
+Camera violently pulled forward.
+Full-spectrum suction roar.
+
+[23.00–24.30] — Identity Merge
+
+Two versions of her overlap.
+Temporal desync 0.03–0.07 s.
+Double exposure flicker.
+Heartbeat splits L/R channels.
+
+[24.30–24.80] — Final Seal
+
+Everything snaps to stillness.
+Mirror becomes perfectly inert.
+Audio hard cuts to silence.
+
+[24.80–25.00] — Final Frame
+
+Empty room.
+No distortion.
+
+One-frame anomaly:
+Her reflection appears… delayed.
+
+CUT TO BLACK.

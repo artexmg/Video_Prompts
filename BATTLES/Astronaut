@@ -1,0 +1,106 @@
+[VOICE/NARRATION]: Off
+[FORMAT]
+duration: 25 seconds
+resolution: 8K-UHD minimum
+segment_sec: 2.0
+fps: 24 - 48
+mode: montage
+tempo_factor: 1.8-2.2
+
+[STYLE]
+Surreal / hyper-real live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; 
+grounded physics
+
+[NEGATIVE PROMPT]
+ZERO stylization
+NO cartoon-look
+NO anime-look
+No painterly texture
+No cel-shade
+No comic-book ink
+No glossy game CG
+No infographic overlays
+No time-remap
+No slow-mo
+No freeze frame
+No slideshow
+No frameholds > 0.01s
+No captions
+
+[SEGMENTS]
+9 segments with 2 scenes each of live-action video based from the reference uploaded image; 
+
+[MAIN IDEA]
+Anchor image fills frame already in movement;
+start anchor-reference image at .00-.01s, Anchor image fills frame already in movement; following segments MUST be < 2.0 s each; 
+cut to dark at 24.8 s; end clean.
+
+ANCHOR IMAGE OVERRIDE (CRITICAL)
+The provided anchor image is the FIRST FRAME at 0.0s
+The anchor image is ALREADY IN MOTION
+It is NOT a still, reveal, or establishing shot
+Action, camera movement, and audio begin at frame one
+
+[AUDIO]: On
+
+[VOICE/NARRATION]: Off
+[Audio & Rhythm]
+FX is loud, 
+SFX is epic.
+No voice over, only Background Music
+
+[BACKGROUND MUSIC]
+
+[Genre / Era]
+Late-1960s art-folk / psychedelic space ballad with early glam undertones.
+British art-rock sensibility. Intimate, cinematic, melancholic.
+
+[Tempo & Meter]
+~64–68 BPM
+4/4, slow pulse, floating feel
+Tempo should feel unmoored, emotionally suspended
+
+[Harmony & Tonality]
+Centered in C major / A minor ambiguity
+Frequent use of IV → V → I resolution delayed or avoided
+Suspended chords, added 9ths, gentle modal color
+Harmonic movement feels like drifting, not traveling
+
+[Structure (Narrative Form)]
+Verse-led storytelling, not chorus-driven
+Refrain appears as an emotional checkpoint, not a hook
+Ending dissolves rather than resolves
+
+[Instrumentation]
+Acoustic guitar (fingerpicked, intimate, close-mic)
+Mellotron or analog string pad (soft, slightly unstable)
+Sparse piano accents (felt or upright tone)
+Minimal bass, warm and rounded
+Drums enter late (brushes or soft kit, heartbeat-level)
+Subtle analog synth sweeps suggesting zero gravity
+
+[Vocal Direction]
+Solo male vocal
+Gentle British phrasing, emotionally detached but fragile
+Close-mic, audible breath, slight saturation
+Delivery feels like reporting emotions, not performing them
+Occasional harmony lines that feel distant, like radio chatter
+
+[Production Texture]
+1969 analog warmth
+Slight tape wobble
+Stereo width used sparingly
+Reverb feels cosmic, long tail, but low in mix
+Silence and space are intentional
+
+[Emotional Physics]
+Awe → isolation → quiet acceptance
+No triumph
+No panic
+Calm loneliness
+
+[Conceptual Core]
+A lone human voice communicating from a fragile place between wonder and disappearance.
+Technology fades. Emotion remains.

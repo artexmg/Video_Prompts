@@ -1,0 +1,199 @@
+[VOICE/NARRATION]: Off
+[FORMAT]
+duration: 25 seconds
+resolution: 8K-UHD minimum
+segment_sec: 2.0
+fps: 24 - 48
+mode: montage
+tempo_factor: 1.8-2.2
+
+[STYLE]
+Surreal / hyper-real live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; 
+grounded physics
+
+[NEGATIVE PROMPT]
+ZERO stylization
+NO cartoon-look
+NO anime-look
+No painterly texture
+No cel-shade
+No comic-book ink
+No glossy game CG
+No infographic overlays
+No time-remap
+No slow-mo
+No freeze frame
+No slideshow
+No frameholds > 0.01s
+No captions
+
+
+Anchor image fills frame already in movement;
+start anchor-reference image at .00-.01s, Anchor image fills frame already in movement; 
+cut to dark at 24.8 s; end clean.
+
+ANCHOR IMAGE OVERRIDE (CRITICAL)
+The provided anchor image is the FIRST FRAME at 0.0s
+The anchor image is ALREADY IN MOTION
+It is NOT a still, reveal, or establishing shot
+Action, camera movement, and audio begin at frame one
+
+[AUDIO]: On
+
+[VOICE/NARRATION]: Off
+[Audio & Rhythm]
+FX is loud, SFX is EPIC, and is synchronized to visual motion and transitions. Hyper-real sound design. realistic sounds.
+No voice over, only background music:
+
+[BACKGROUND MUSIC]
+
+Intent: Parisian romance → dreamy seduction → bass-weighted electronic bloom
+Core Emotion: Tender enchantment wrapped in nocturnal pulse
+Target Use: 25-second cinematic background music cue, sensual but modern, elegant but heavy
+
+
+GLOBAL MUSICAL DNA
+
+Duration: 25 seconds
+Genre Fusion: French chanson / cabaret romance × atmospheric dubstep
+Tempo: 138–142 BPM
+Meter: 4/4
+Key Feel: minor-to-major ambiguity; starts wistful, resolves luminous
+Mood Arc: intimate velvet nostalgia → suspended anticipation → rich bass drop with romantic lift
+Era Blend: 1940s Parisian torch-song atmosphere rebuilt as sleek modern electronic night music
+
+LYRICAL CONCEPT
+Use original French lyrics that evoke romantic surrender, soft light, nocturnal elegance, and emotional enchantment.
+Primary lyric set
+
+Sous ta voix la ville dort
+Le ciel glisse sur mon corps
+Dans tes mains le temps se pose
+Et la nuit devient rose
+
+Alternate lyric 
+
+Quand tes yeux croisent mes nuits
+Tout s’éclaire sans bruit
+Et le monde, un instant,
+Ne respire qu’en t’attendant
+
+
+Vocal chop fragments for the drop
+la nuit s’efface
+avec grâce
+le monde ose
+lumière rose
+
+These fragments should be reused melodically during the drop as elegant chopped vocal material.
+
+STRUCTURE MAP
+0.00–0.06 — Vintage lure
+Soft accordion motif or muted café-style melody, delicate upright bass, vinyl dust, brushed percussion, distant reverb, intimate and fragile opening.
+The harmonic language should suggest old Paris nightlife, dreamy and elegant, not comedic.
+A breathy feminine French vocal may enter near the end of this segment with the first line:
+Dans tes yeux la nuit s’efface
+
+0.06–0.12 — Electronic awakening
+
+Introduce filtered synth swell under the acoustic romance bed.
+Vocal texture enters as breathy, feminine, close-mic French phrases.
+Sub-bass begins to bloom quietly.
+Tension rises through chopped reverb tails, soft reverse textures, and restrained risers.
+
+Suggested lyric continuation:
+Tout s’incline avec grâce
+Près de toi le monde ose
+The delivery should remain soft, intimate, velvety, and emotionally close.
+
+0.12–0.20 — Dubstep bloom / drop
+Drop lands with:
+warm but powerful sub-bass
+restrained wobble bass, smooth not aggressive
+syncopated dubstep pulse
+romantic lead melody preserved above the bass weight
+elegant vocal chops, not hyperactive
+snare hits crisp and modern
+sidechain breathing motion
+The drop must feel sensual and cinematic, not brostep, not chaotic, not abrasive.
+Use chopped or stretched French vocal fragments such as:
+
+avec grâce
+la nuit s’efface
+lumière rose
+
+These should feel yearning, melodic, and luxurious rather than glitchy or frantic.
+
+0.20–0.25 — Afterglow
+Let the bass soften and the Parisian melodic identity return.
+Small vocal fragment, fading accordion or music-box-like phrase, one final luminous chord or suspended unresolved ending.
+Suggested final vocal phrase:
+lumière rose
+or
+et la nuit devient rose
+
+INSTRUMENT PALETTE
+soft accordion or accordion-like reed texture
+brushed jazz kit at intro
+upright bass or faux upright plucks
+breathy female lead / intimate torch-song delivery in French
+airy vocal chops in the drop
+lush pads
+smooth wobble bass
+warm sub-bass
+subtle vinyl crackle
+reverse swells and filtered white-noise risers
+optional glockenspiel or music-box sparkle for dreamlike shimmer
+
+VOCAL DIRECTION
+feminine, intimate, velvety
+French lyrics only
+French cabaret elegance in phrasing, but modern production
+delivery should feel seductive, emotional, close to the listener
+avoid belting
+avoid theatrical Broadway tone
+avoid exaggerated parody-French style
+maintain natural, soft French pronunciation
+vocal chops in drop should be melodic and yearning, not glitchy for its own sake
+
+PRODUCTION CONSTRAINTS
+Keep the romantic melodic identity clear even during the drop
+Keep the French lyrical identity present, either through full lines or chopped fragments
+Bass should feel luxurious and deep, not harsh
+No metallic aggression
+No festival EDM supersaw overload
+No comedic accordion clichés
+No trap hats dominating the mix
+The cue should feel like Paris at midnight inside neon fog
+Preserve elegance at all times
+
+ENERGY CURVE
+Start: 25%
+Build: 50%
+Drop: 85%
+Outro: 40%
+
+This is not a destructive drop.
+It is a seductive bloom.
+
+MIX / TEXTURE NOTES
+Warm, intimate, expensive-sounding mix
+Wide stereo bloom in synth layers
+Vocal very present, soft saturation
+Bass deep but rounded
+Gentle sidechain breathing
+Air above 10k for dream shimmer
+Slight tape/vinyl texture at the beginning for vintage memory effect
+
+NEGATIVE CONSTRAINTS
+no brostep screech
+no chaotic growls
+no comedy soundtrack energy
+no circus feel
+no aggressive tearout bass
+no cheesy “French stereotype” treatment
+no huge EDM festival anthem uplift
+no hard rock drums
+no overcomplicated arrangement

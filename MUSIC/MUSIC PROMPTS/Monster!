@@ -1,0 +1,187 @@
+[VOICE/NARRATION]: Off
+[FORMAT]
+duration: 25 seconds
+resolution: 8K-UHD minimum
+segment_sec: 2.0
+fps: 48fps
+mode: montage
+tempo_factor: 1.8-2.2
+
+[STYLE]
+Surreal / hyper-real live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; 
+grounded physics
+
+[NEGATIVE PROMPT]
+ZERO stylization
+NO cartoon-look
+NO anime-look
+No painterly texture
+No cel-shade
+No comic-book ink
+No glossy game CG
+No infographic overlays
+No time-remap
+No slow-mo
+No freeze frame
+No slideshow
+No frameholds > 0.01s
+No captions
+
+[GENERAL RULE FOR SEGMENTS]
+9 segments with 2 scenes each of live-action video based from the reference uploaded image; 
+start anchor-reference image at .00-.05s, already in movement; following segments MUST be < 2.0 s each; 
+
+[SCENES]
+
+Scene 1 [0.33s]
+A large mechanical fish with "ARTEX" inscribed, surrounded by flying fighter jets and small boats on choppy sea. Small aircraft fly around the static fish; boats navigate rough waters; waves crash against fish and structure.
+
+Scene 2 [1s]
+Vertical view of the towering mechanical fish "ARTEX" with buildings on its back and WWII-era planes in cloudy sky. Camera arcs left and up; fish head tilts; planes fly and leave contrails; sea spray rises.
+
+Scene 3 [0.67s]
+Cockpit view of a fighter plane pilot flying near the mechanical fish, with gauges and reflections in canopy glass. Camera sways with plane vibration; pilot banks left; gauges flicker; pilot adjusts controls; planes and contrails visible.
+
+Scene 4 [0.67s]
+View from below left wing of a fighter plane banking over ocean with mechanical fish in background and mounted bomb. Camera moves with plane; bomb releases and spins; planes maneuver; sea spray and gunfire flashes visible.
+
+Scene 5 [1s]
+Water-level view of a descending bomb approaching ocean near mechanical fish with planes overhead. Bomb impacts water causing splash and explosion; plume rises and cascades; planes fly around fish.
+
+Scene 6 [0.67s]
+Ground-up view of mechanical fish with open mouth showing glowing blue energy core and rusted metal details. Camera arcs upward and right; energy core pulses; fish head tilts; mechanical parts shift; planes fly overhead.
+
+Scene 7 [1s]
+Deck of mechanical fish with two soldiers manning dual-barrel anti-aircraft gun amid machinery and ocean background. Gunner pivots weapon; loader feeds shells; gun fires bursts with muzzle flashes; planes evade tracers.
+
+Scene 8 [0.67s]
+Tan fighter plane engulfed in flames and smoke with cracked canopy and pilot visible inside, flying over ocean. Plane banks left; flames intensify; debris scatters; pilot pulls controls; plane descends toward ocean.
+
+Scene 9 [0.67s]
+Underwater view behind mechanical fish showing rusted tail, rotating thrusters, and bubbles in deep blue-green water. Thrusters rotate rapidly; bubbles and turbulence form; tail fins flex; light refracts underwater.
+
+Scene 10 [0.67s]
+Close-up of mechanical fish's eye with rotating aperture plates, glowing blue core, and reflections of diving plane. Eye's blue core pulses; aperture adjusts; reflected plane sharpens; subtle head movement.
+
+Scene 11 [1s]
+High-angle wide shot of battlefield with mechanical fish, fighter planes, explosions, and turbulent sea. Camera glides forward and tilts down; planes maneuver; fish turns left; explosions and gunfire flashes visible.
+
+Scene 12[0.67s]
+Interior engine room of mechanical fish with two mechanics operating machinery amid pipes, gauges, and steam. Camera tracks mechanics; piston cycles; steam vents; gauges checked; machinery trembles.
+
+Scene 13 [0.67s]
+Upper deck of mechanical fish with radar mast, barrels, cables, and planes flying in cloudy sky. Camera glides forward and tilts up; radar dishes rotate; flags ripple; planes shift positions.
+
+Scene 14 [0.67s]
+Tan fighter plane fires missile toward mechanical fish over turbulent sea with dramatic lighting. Missile launches with flare and smoke; plane banks right; missile accelerates toward fish; turrets fire.
+
+Scene 15 [0.67s]
+Close-up of missile striking mechanical fish near dorsal fin, causing explosion with sparks and debris. Warhead detonates; fireball expands; metal shards scatter; smoke and flames pour; fish plates buckle.
+
+Scene 16 [0.67s]
+Mechanical fish opens mouth to release smaller drone-like fish with glowing red eyes and thrusters. Fish mouth opens; drones emerge and accelerate; thrusters emit flames and bubbles; fish mouth closes slowly.
+
+Scene 17 [1s]
+Fighter plane pursued by drone fish with glowing eyes and thrusters in tumultuous sky above ocean. Plane banks left; drone adjusts course; drone lunges; plane rolls and dives; chase continues toward water.
+
+Scene 18 [0.67s]
+Low-angle view of mechanical fish diving into ocean with water spray, fins spread, and planes in background. Fish head enters water; spray erupts; fins cut waves; planes fly past; fish submerges amid waves.
+
+Scene 19 [6.67s]
+Distant elevated view of mechanical fish surfacing with structures visible above water and planes circling. Camera tracks back and ascends; fish head rises; water sprays; planes circle; sunlight filters through mist.
+
+at 24.7sec cut to black and end video cleanly
+
+[AUDIO]: On
+SF is loud, SFX is epic.
+No voice over, only a BGM
+
+[BACKGROUND MUSIC]
+🎧 META
+Duration: 25 seconds
+Meter: 4/4
+Tempo: 174 BPM (thrash base) with halftime PHONK drops
+Key: E minor (Phrygian inflection for darker tension)
+Energy Curve: Ignite → Drive → Drop → War Surge → Brutal Cut
+
+⚙️ STRUCTURE (No intro. Immediate ignition.)
+0.00–0.04 — IGNITION STRIKE
+Full-band thrash entrance on beat 1
+Tight palm-muted tremolo riff
+Rapid double-kick under sharp snare
+Distorted 808 sub layered quietly beneath bass
+Short reverse-cymbal inhale before bar 2
+Feel: engine already redlined.
+
+0.04–0.09 — THRASH DRIVE
+Galloping low-string riff (16th–8th–16th pattern)
+Hi-hat 8ths, aggressive snare on 2 & 4
+Bass locked to guitar with subtle grit
+War FX (very subtle, low in mix):
+distant metallic impacts
+reversed artillery tail swelling into transitions
+No breathing space.
+
+0.09–0.13 — PHONK DROP (HALFTIME COLLAPSE)
+Drums shift to halftime
+Heavy distorted 808 dominates low-end
+Cowbell syncopation (classic PHONK texture)
+Riff simplifies to rhythmic stabs
+Snare becomes thicker, slightly gated
+Background: low male choir pad (war-orchestra undertone)
+Mood: urban warzone meets battlefield.
+
+0.13–0.18 — WAR SURGE
+Taiko-style hits layered under kick
+Brass stabs (short, aggressive, no melody)
+Thrash riff returns but doubled with octave lead accent
+808 continues beneath electric bass
+Ride cymbal opens slightly for intensity
+Energy climbs violently.
+
+0.18–0.23 — FULL HYBRID CHAOS
+Tremolo riff + distorted 808 + double-kick barrage
+Choir hits on downbeats
+Snare rolls leading into every bar
+Sub-bass slides between chord roots
+Short lead-guitar shriek (1 bar max, no full solo)
+Sound mass feels thick, oppressive, forward-moving.
+
+0.23–0.25 — EXECUTION CUT
+Sudden half-beat silence
+Massive unison hit (band + 808 + brass)
+Hard stop. No reverb tail.
+End like a guillotine.
+
+🥁 DRUM LANGUAGE
+Modern punchy kick
+Snare: hybrid acoustic + PHONK clap layer
+Minimal fills — mostly machine-gun snare bursts
+Occasional tom drop before transitions
+
+🎸 GUITARS
+Tight palm muting
+Tremolo bursts
+High-mid presence
+No melodic sweetness — pure aggression
+Lead accents are sharp and short
+
+🎚️ LOW-END DESIGN
+Electric bass + distorted 808 stacked
+Sidechain slightly to kick for clarity
+Sub-bass glides in PHONK sections
+
+🎺 WAR LAYERS
+Low choir drones (minor 2nd tension)
+Short brass stabs
+Taiko-style percussive impacts
+Metallic impact FX
+All rhythmic, never cinematic slow.
+
+🎯 EMOTIONAL TARGET
+Street-level chaos.
+Battlefield acceleration.
+Controlled violence.
+No nostalgia — only forward destruction.

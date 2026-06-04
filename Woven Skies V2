@@ -1,0 +1,153 @@
+WOVEN SKIES
+
+Duration: 15.0s
+FPS: 30
+Res: 8K UHD
+Aspect: 2.39:1
+Tone: kinetic · aggressive camera · tight pacing · Matrix-style hard cuts · micro-conflict
+
+🪝 0.0–0.2s — ANCHOR SHOT (Dynamic Hook)
+
+Extreme close-up of the weave surface rushing past camera as the camera performs a fast micro-whip pan revealing glowing veins beneath the surface.
+
+FX: refractive streaks · micro spark particles
+SFX: short air-snap “whhk”
+
+CUT HARD.
+
+0.2–1.2s — SCENE 1 — High-Altitude Chase Shot
+
+The patrol ship races parallel to the massive weaving threads above the city.
+The threads rumble internally.
+
+Camera: long-lens glide tracking the ship
+FX: ion trails · thread vibrations
+SFX: engine growl + low rhythmic pulse (heartbeat hint)
+
+CUT.
+
+1.2–2.0s — SCENE 2 — Hard Tilt Down
+
+Camera whip-tilts downward:
+The weave bulges, as if something inside it moved.
+
+FX: cloth displacement · internal glow flare
+SFX: muffled “thud” from inside material
+
+CUT.
+
+2.0–3.0s — SCENE 3 — Cockpit POV Scan
+
+Inside ship HUD:
+Scan pulses strike the weave → returning chaotic fractal signatures.
+
+FX: holographic UI flicker
+SFX: glitchy scan returns · static hiss
+
+CUT.
+
+3.0–4.0s — SCENE 4 — Fast Orbit Shot Around Ship
+
+Camera circles the ship rapidly as the weave begins to tremble.
+
+FX: parallax warp · energy ripple growing under surface
+SFX: rising metallic hum
+
+CUT.
+
+4.0–5.0s — SCENE 5 — Something Moves
+
+Close-up of the weave from below:
+A silhouette slides inside like a gigantic creature shifting its weight.
+
+FX: internal bioluminescent pulse · motion streaks
+SFX: deep biological groan (low-pass filtered)
+
+CUT.
+
+5.0–6.2s — SCENE 6 — Thread Strike
+
+One of the woven tendrils WHIPS out toward the ship.
+
+Camera: handheld chaotic → sudden dolly-back
+FX: air distortion · debris sparks off ship
+SFX: sharp “FWOOOM” + hull impact clank
+
+CUT.
+
+6.2–8.0s — SCENE 7 — Evasive Maneuvers
+
+The ship barrel-rolls through two massive threads closing around it.
+Camera tracks from below → then sideways → like Matrix bullet-time but fast.
+
+FX: motion blur ribbons · dynamic parallax
+SFX: engine burst · rushing wind · tension pulses
+
+CUT.
+
+8.0–10.0s — SCENE 8 — Close Call Flythrough
+
+Ship squeezes through a collapsing gap in the weave.
+Camera follows behind, then snaps into front perspective mid-flight.
+
+FX: cloth collapse sim · glowing filament breaking apart
+SFX: tearing fabric + bass-heavy resonance
+
+CUT.
+
+10.0–12.0s — SCENE 9 — The Heartbeat
+
+Ship stabilizes.
+The weave pulses in sync like a giant heart.
+
+Camera: locked-off wide shot
+FX: wave propagation · synchronized city-light flicker
+SFX: deep heartbeat (slow 2x boom)
+
+CUT.
+
+12.0–14.6s — SCENE 10 — Data Transfer & Escape
+
+HUD overlays record the waveform.
+Ship accelerates away as the weave coils silently behind it.
+
+Camera: perspective shift: frontal → side → top-down
+FX: ion trail stretching → holographic recording panels
+SFX: engine fade-out · distant pulse still audible
+
+CUT.
+
+14.6–15.0s — END CARD
+
+Black background.
+Minimal fade-in.
+
+“The weave moved again.”
+
+FX: faint haze
+SFX: tiny click → silence
+
+🧪 PHYSICS TUNING
+
+Thread strike uses heavy-mass whip physics (delay + snap).
+
+Bioluminescent pulses propagate at 0.9–1.2 m/s along filaments.
+
+Cloth collapse sim uses:
+rigidity 0.6, stretch 0.3, damping 0.1
+
+Ship barrel roll uses rotational inertia and micro-thruster correction jitter.
+
+Heartbeat pulse uses expanding concentric ripple + refractive shock ring.
+
+🔊 AUDIO TUNING
+
+No melody, only percussive hits + pulses.
+
+Thread strike → bass 40–50 Hz.
+
+Heartbeat → layered low-frequency booms (muffled, huge).
+
+Evasive → air displacement sweeps + Doppler passes.
+
+End card → silence except for a click.

@@ -1,0 +1,290 @@
+PAINTBORN STALLION — Sora2 Script
+
+Length: 15 s Aspect: 9:16 FPS: 30 Quality: High-Def, filmic
+
+
+CRITICAL CONSTRAINTS
+
+Preserve 100% of the horse’s anatomy and proportions from the anchor.
+Do not morph, melt, or distort the face, torso or legs.
+Paint ribbons behave like thick sculpted acrylic with subtle flexibility, not liquid goo.
+The horse never floats:
+Ground plane = semi-solid, glossy acrylic surface.
+Hooves have weight, compress slightly into the paint, cast consistent shadows.
+Glossy specular highlights sliding over the paint.
+
+GLOBAL STYLE / LOOK
+
+Hyper-real painterly aesthetic, like a 3D sculpture made of thick oil/acrylic.
+Ultra-detailed impasto, visible ridges and swirls.
+Palette: turquoise background, pastel magentas, cyans, yellows, whites, and hints of violet.
+Soft filmic bloom on bright colors, slightly HDR but natural.
+Depth of field used artistically: macro shallow DOF → mid/wide deeper DOF.
+
+PHYSICS & FX
+
+Paint Physics: behaves like a hybrid of liquid + ribbon + soft clay.
+Ribbons flex and spring back, not melt.
+When kicked or hit, paint bursts into thick droplets and flat smears that quickly settle.
+Shockwaves: hoof impacts send out low, circular ripples across the acrylic floor, like a pond made of paint.
+Particles: floating paint flakes and petals drift slowly in the air, with light catching their edges.
+Lighting: single soft key from upper left, subtle back rim from right, creating glossy highlights on every ridge.
+
+AUDIO DESIGN
+
+Music: Epic hybrid orchestral + modern percussive (around 120–130 BPM).
+Low strings and pads for atmosphere.
+Deep, punchy hits on major hoof impacts and shockwaves.
+
+FX:
+
+Dense, sticky “paint whooshes” when ribbons flare.
+Subtle low-frequency rumbles on ripples and shockwaves.
+Occasional shimmering high-frequency chimes when particles float or dissolve.
+Mix: The horse’s movements and shockwaves are synced to strong beats; quieter underscoring in calmer macro shots.
+
+SCENE-BY-SCENE SCRIPT
+
+S0 - Anchor (0.0 - 0.3):
+
+Lens: 50mm macro-portrait hybrid
+Camera motion: Slow, subtle parallax drift (1–2 cm), extremely gentle.
+Focus: the head and mane; shallow DOF; background softly blurred.
+
+Sound:
+Soft low ambient rumble
+Very faint shimmering “wet acrylic” sigh
+No sudden musical elements yet — a calm cinematic inhale
+
+
+
+S1 — MACRO AWAKENING (0.3–1.0 s)
+
+Camera / Lens:
+85mm macro, very shallow DOF, handheld-smooth.
+Slow left-to-right glide across the mane ridges.
+Action / Physics:
+The thick pastel ribbons of the mane quiver, as if breathing.
+Tiny paint flakes lift a few millimeters, then settle back.
+FX:
+
+Micro-specular glints drifting across the ridges.
+Soft bokeh blobs in turquoise background.
+
+Audio:
+Low ambient rumble + airy, rising pad.
+Soft “wet brush” foley with each tiny ripple.
+
+S2 — CANVAS RIPPLE (1.0–2.5 s)
+
+Camera / Lens:
+
+35mm, side-angle dolly, mid-shot of shoulders and torso.
+
+Slow parallax move from front-left to front-right.
+
+Action / Physics:
+
+The turquoise backdrop ripples outward from the horse like a gentle wave through thick paint.
+
+The horse’s body stays structurally rigid; only the surface paint subtly flexes.
+
+FX:
+
+Wavefronts in the paint, leaving faint trails of altered texture.
+
+A few loose paint petals detach and spin slowly in the air.
+
+Audio:
+
+A deep, filtered “whomp” as each ripple passes.
+
+Subtle stereo whoosh matching the camera glide.
+
+S3 — EYE OF PIGMENT (2.5–3.7 s)
+
+Camera / Lens:
+
+100mm close-up on the eye, slight dolly-in.
+
+Camera tilts subtly from below, heroic angle.
+
+Action / Physics:
+
+The eye remains perfectly shaped, no distortion.
+
+Inside the iris, pigments swirl like slow galaxies of magenta, gold, and cyan.
+
+A tiny highlight flares as if a spark ignites.
+
+FX:
+
+Micro-particles of paint drift out from the corner of the eye and vanish into the air.
+
+Audio:
+
+A crystal-like high chime glissando on the pigment swirl.
+
+Low bass swell ramping up for the next scene.
+
+S4 — MANE SURGE (3.7–5.0 s)
+
+Camera / Lens:
+
+24mm, rapid but smooth orbit around the head (¾ front view to ¾ rear).
+
+Slight motion blur, cinematic.
+
+Action / Physics:
+
+The mane bursts outward in layered arcs of paint ribbons, like a slow-motion explosion.
+
+Ribbons stretch but always snap back to their original thickness and curvature; no melting.
+
+The head and neck remain anatomically tight and unchanged.
+
+FX:
+
+Paint trails in the air, thick enough to feel heavy.
+
+A few big droplets break off and fall in slow arcs.
+
+Audio:
+
+Strong percussive hit when the mane surges.
+
+Layered swooshes as ribbons whip through the air, panned with camera orbit.
+
+S5 — WEIGHTED STEP (5.0–6.7 s)
+
+Camera / Lens:
+
+35mm, low side profile of the front legs and chest.
+
+Dolly tracking the horse slightly as it takes a single powerful step forward.
+
+Action / Physics:
+
+The horse lifts one front leg in a controlled, realistic way.
+
+Hoof descends and compresses the acrylic ground, creating a small crater then rebound.
+
+A ring of paint ripples out from the impact in concentric waves.
+
+FX:
+
+Thick droplets shoot outward at ground level, then quickly settle.
+
+Subtle splash reflections on the underside of the leg.
+
+Audio:
+
+Deep, punchy hoof impact with a low-end thump.
+
+Gentle cracking/creaking of drying paint.
+
+S6 — PAINT REALM REVEAL (6.7–8.7 s)
+
+Camera / Lens:
+
+18mm wide, slow crane up and back, revealing more of the scene.
+
+Slight tilt down to keep the horse centered while revealing the environment.
+
+Action / Physics:
+
+We see a vast landscape of rolling acrylic dunes in turquoise and pastel tones.
+
+The horse stands proud, mid-pose, stable and well-proportioned at the center.
+
+Distant ripples move across the “sea of paint” as if echoing the earlier step.
+
+FX:
+
+Ambient floating flakes and petals of paint drifting in the air.
+
+Soft glints of light on distant ridges.
+
+Audio:
+
+Music swells into a more heroic theme.
+
+Wind-like whoosh, but with sticky, viscous undertones.
+
+S7 — SHOCKWAVE KICK (8.7–11.5 s)
+
+Camera / Lens:
+
+28mm, dynamic ¾ front view, slightly low.
+
+Camera pushes in as the horse rears slightly and delivers a strong forward kick with a front hoof.
+
+Action / Physics:
+
+The kick remains anatomically correct, no warped limbs.
+
+When the hoof slams down, a massive circular shockwave of rainbow paint blasts out across the floor in slow motion.
+
+The environment warps elastically around the shockwave, then relaxes.
+
+FX:
+
+Shockwave ring: raised ridge of paint racing outward, splashing droplets and flinging petals into the air.
+
+Air itself seems to streak with pastel colors for a moment.
+
+Audio:
+
+Huge orchestral hit + sub-bass impact at the moment of contact.
+
+Low-frequency rumble sustained as the shockwave spreads.
+
+Short reverse cymbal swell leading into the impact.
+
+S8 — ASCENT INTO COLOR (11.5–14.0 s)
+
+Camera / Lens:
+
+24mm, overhead crane pulling up into a semi-top-down view, then tilting up toward a bright, glowing sky of cyan.
+
+Slight slow motion here.
+
+Action / Physics:
+
+The horse performs a single, graceful leap, but body proportions stay stable and realistic.
+
+As it rises, small chunks of paint peel off into the air, becoming glowing flakes and ribbons.
+
+By the top of the leap, the horse begins a controlled dissolve into pigment, but the silhouette remains readable until the last second.
+
+FX:
+
+Trails of pastel ribbons follow its motion, then fragment into thousands of particles.
+
+Faint volumetric shafts of light through drifting pigment dust.
+
+Audio:
+
+Music reaches a soaring peak, with choir-like pads or long strings.
+
+High chimes and gentle reverse reverb on the dissolve.
+
+S9 — TITLE IN PIGMENT DUST (14.0–15.0 s)
+
+Camera / Lens:
+
+Static-but-drifting composition: virtual 50mm, locked on a soft, abstract cloud of pigment dust on a turquoise background.
+
+Very gentle push-in.
+
+Action / FX:
+
+The dust swirls and assembles into faint letter-shapes.
+
+Clean serif letters “PAINTBORN STALLION” appear, formed from paint particles, then glow slightly.
+
+Audio:
+
+Music resolves into a final sustained chord.
+
+Very soft shimmer, then fade to silence at exactly 15.0s.

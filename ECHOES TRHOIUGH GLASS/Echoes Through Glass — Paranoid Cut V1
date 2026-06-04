@@ -1,0 +1,163 @@
+# ECHOES THROUGH GLASS — Paranoid Cut
+
+(15 s, 8K UHD, 24 fps — Psychological Horror / Surreal Realism)
+
+Narrative Arc: paranoia → distortion → rebellion → rupture → silence
+Visual Mood: cold silver-blue monochrome; low-key lighting; shallow depth; breathing reflections; liquid glass
+Setting: bedroom lined with mirrors whose surfaces behave as fluid membranes while the air remains perfectly dry
+
+## Global Visual / Camera / Lighting
+
+Camera lenses: 35 mm anamorphic (primary), 50 mm macro (close), handheld dolly and orbit shots
+
+Motion blur: 180° shutter / 1⁄48 s exposure
+
+Lens effects: subtle barrel distortion (0.5 %), chromatic fringing (±0.5 %), optical breathing 1 %
+
+Film look: 35 mm LUT, ISO 320, fine grain; halation on speculars
+
+Lighting design: flicker sine 0.5 Hz + strobe bursts 2 Hz + occasional blackout frames
+
+Color palette: black / gunmetal / pale cyan highlights
+
+Environment haze: volumetric density 0.25; absorption 0.6
+
+Mirror shader: dynamic refractive index shifting 1.55 → 1.33 during “pull” transition
+
+Scene Flow (≈2 s each)
+
+1 – Pulse Ignition (0–2 s)
+
+Action: macro on her eye; reflections pulse with heartbeat
+
+Physics: air refractive shimmer IOR ≈ 1.005; micro-ripples synced to heartbeat amplitude
+
+Lighting: top flicker 1.8 Hz; bloom only on whites
+
+Audio: deep sub-bass heartbeat (90 → 100 bpm), reverb tail whisper “wake up” −36 dB
+
+Mood: awareness before panic
+
+2 – Room Awakens (2–4 s)
+
+Action: she rises; mirrors ripple first
+
+Physics: droplet simulation (g = −9.8 m/s²); surface damping ζ = 0.05
+
+Camera: 35 mm handheld pan; rolling-shutter jitter 12 %
+
+Lighting: cool morning hue; soft volumetric rays
+
+Audio: reversed whisper “you’re late”; faint low-freq drone 35 Hz
+
+3 – Echo Lag (4–6 s)
+
+Action: her motion lags in mirror; reflection multiplies
+
+FX: temporal ghost frames offset 0.08 s; transparency layering × 4
+
+Physics: mirror fluid tension coefficient 0.4; viscosity 0.9 Pa·s
+
+Audio: heartbeat 110 → 120 bpm; metallic ticking panned L→R; glass chime reversed 0.2 s
+
+Lighting: intermittent blue-white flashes tied to tick rate
+
+4 – Mirrors Breathe (6–8 s)
+
+Action: walls inhale/exhale; condensation climbs upward
+
+Physics: soft-body bulge amplitude 0.04 m; humidity 90 %
+
+FX: fog particle count 50 k; mist turbulence amplitude 0.2
+
+Audio: wet inhale/exhale with amplitude envelope mapped to mirror oscillation; low-band boost +6 dB at 200 Hz
+
+Lighting: alternating cyan glow / total blackouts every 0.5 s
+
+5 – Faces in Glass (8–10 s)
+
+Action: multiple desynced reflections encircle her
+
+Camera: rapid montage, 5 frames per cut, jump-cuts at 12 Hz
+
+FX: reflection duplication × 4; chromatic aberration 0.8 %; frame echo 0.1 s
+
+Audio: multi-layer whisper chorus, reverb 6 s, spectral widening 20 %; heartbeat 130 bpm
+
+Lighting: cold under-chin highlights, flicker tied to voice amplitude
+
+Mood: visual/auditory overload; onset of paranoia
+
+6 – Scream Through Water (10–12 s)
+
+Action: reflection screams silently; sound arrives delayed
+
+Physics: suspended droplet system (particle radius 1 mm; gravity override −2 m/s²)
+
+FX: underwater warp refraction; ripple frequency 6 Hz
+
+Audio: distorted scream filtered < 1 kHz; heartbeat 140 bpm; wet reverb 70 % wet / 7 s decay
+
+Lighting: strobing white flashes per beat; specular flicker from mirror surface
+
+Mood: temporal distortion; panic apex
+
+7 – The Pull (12–14 s)
+
+Action: reflection arm breaks through glass, drags her inside
+
+Physics: fluid–solid interaction (cohesion 0.4; viscosity 1.2 Pa·s; splash 200 k particles)
+
+Camera: whip-pan transition to half-submerged POV; parallax rotation 20°/s
+
+FX: refractive displacement map amplitude 0.06; particle lighting subsurface 0.5 scatter
+
+Audio: shatter transient 0 dB peak; Doppler heartbeat pitch −2 semitones; sub-impact 60 Hz −3 dB; short burst of white noise 0.5 s
+
+Lighting: flash-white → murky cyan diffusion within 0.2 s
+
+Mood: violent rupture of reality
+
+8 – Submersion Silence (14–15 s)
+
+Action: underwater void; her hair floats upward; bubbles rise; mirror seals above
+
+Physics: bubble density 0.02; velocity 0.12 m/s; volumetric scatter 0.8 absorption coef 0.7
+
+Camera: slow dolly back; focus breathing; particles drifting in z-depth
+
+Lighting: dim moon-blue gradient fading to total black
+
+Audio: heartbeat decelerates → flatline; hiss fades > 500 Hz LP; silence @ 15 s
+
+Mood: tranquil entrapment; after-terror stillness
+
+Audio / FX / Physics Specifications (Global)
+
+Heartbeat source: layered organic thump + synthetic sub pulse; bpm 90 → 140 → 0
+
+Whisper bus: 8 s reverb / 70 % wet / stereo width 1.4
+
+Glass bus: convolution reverb (small room 0.9 s) + transient enhancer + low-pass 250 Hz
+
+Compressor: side-chain to heartbeat, ratio 3:1, threshold −18 dB
+
+Reverb space: 10 m virtual cube, predelay 0.12 s, diffusion 85 %
+
+Sub layer: sine 30–60 Hz, amplitude-modulated by heartbeat envelope
+
+Fluid sim: 2 × 10⁵ particles, density 1.0 kg/m³, drag 0.01
+
+Mist sim: 5 × 10⁴ particles, turbulence 0.25, lifetime 3 s
+
+Droplet shader: specular 0.8, translucency 0.6, scattering depth 1.5 cm
+
+Cloth physics (hair / pajama): damping 0.02, drag 0.1, gravity 9.8 m/s², stiffness 15 N/m
+
+Atmospheric FX: volumetric fog scatter 0.5, anisotropy 0.4
+
+Color grade: cool curve, gamma 0.85, mid-tone lift +0.05
+
+Fade-out: master low-pass 500 Hz → silence at 14.8 s
+
+End State: total auditory void; darkness; single frame linger of the mirror surface—motionless, resealed, as though nothing ever happened.

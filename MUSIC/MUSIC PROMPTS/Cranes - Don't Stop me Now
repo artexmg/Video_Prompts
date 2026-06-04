@@ -1,0 +1,80 @@
+[VOICE/NARRATION]: Off
+[FORMAT]
+duration: 25 seconds
+resolution: 8K-UHD minimum
+segment_sec: 2.0
+fps: 24 - 48
+mode: montage
+tempo_factor: 1.8-2.2
+
+[STYLE]
+Surreal / hyper-real live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; 
+grounded physics
+
+[NEGATIVE PROMPT]
+ZERO stylization
+NO cartoon-look
+NO anime-look
+No painterly texture
+No cel-shade
+No comic-book ink
+No glossy game CG
+No infographic overlays
+No time-remap
+No slow-mo
+No freeze frame
+No slideshow
+No frameholds > 0.01s
+No captions
+
+[SEGMENTS]
+9 segments with 2 scenes each of live-action video based from the reference uploaded image; 
+
+[MAIN IDEA]
+Anchor image fills frame already in movement;
+start anchor-reference image at .00-.05s, Anchor image fills frame already in movement; following segments MUST be < 2.0 s each; 
+cut to dark at 24.8 s; end clean.
+
+ANCHOR IMAGE OVERRIDE (CRITICAL)
+The provided anchor image is the FIRST FRAME at 0.0s
+The anchor image is ALREADY IN MOTION
+It is NOT a still, reveal, or establishing shot
+Action, camera movement, and audio begin at frame one
+
+[AUDIO]: On
+
+[VOICE/NARRATION]: Off
+[Audio & Rhythm]
+FX is loud, 
+SFX is epic.
+No voice over, only a 135-145 BPM PHONK and OMINOUS dark-electro midtempo
+Epic PHONK + hybrid orchestral + industrial percussion
+
+135–150 BPM
+Constant sub-bass pressure synced to impacts
+Loud, aggressive, theatrical mix
+Metallic shrieks, air tearing, debris shear
+Overall Feeling
+Relentless
+Violent
+Mythic
+Overstimulating in a good way
+Audience should feel attacked, not invited
+Music feels heavy, punchy, deep BOOOOM drops with metallic hits, sub-bass pulses, cyber-industrial energy. 
+Strong emphasis on deep kicks and dark music textures.
+
+[BACKGROUND MUSIC]
+
+Reference Music Prompt — High-Velocity Joy Anthem
+
+A hyper-kinetic late-1970s glam-rock piano anthem at 155–160 BPM, locked in bright major-key tonality with constant forward momentum, built around relentless, percussive piano octaves that function like a rhythm guitar, driving the entire song with nonstop motion. The groove is straight 4/4, urgent and propulsive, with drums pushing aggressively on the kick and snare, minimal swing, and fills that feel like acceleration rather than decoration.
+
+Harmony is simple, diatonic, and euphoric, designed for lift rather than tension; chord changes arrive fast and confidently, never lingering. The bass mirrors the piano tightly, creating a feeling of being pulled forward by pure inertia. Electric guitars appear as bright, crunchy accents—short rhythmic stabs and celebratory flourishes—never dominating the mix.
+
+Lead vocals are exuberant, theatrical, and fearless, leaping across registers with precision and joy, delivered as a breathless monologue of self-belief, speed, pleasure, and unstoppable momentum. Lyrics are first-person, present-tense, packed with kinetic verbs and playful exaggeration, celebrating motion, power, and confidence with almost cartoonish intensity. Backing vocals act as stacked, triumphant shouts, reinforcing hooks rather than harmonizing delicately.
+
+Production is clean, punchy, and analog-warm, with everything mixed upfront—no haze, no distance—so the track feels like it’s happening right now. Arrangement never relaxes: no breakdowns, no introspection, no darkness—only escalation, sparkle, and velocity. The song feels like running downhill with no brakes, pure joy translated directly into sound, engineered to make stillness impossible.
+
+see: high-speed glam rock | piano-driven rock euphoria | late-70s stadium energy | theatrical British rock maximalism | unstoppable momentum

@@ -1,0 +1,16 @@
+{
+  "project": "Analog Psychedelic Broadcast Remix",
+  "input": "user_provided_video",
+  "format": "experimental remix visual",
+  "style": [
+    "psychedelic",
+    "analog",
+    "retro educational",
+    "experimental",
+    "surreal"
+  ],
+  "direction": "transform the video from its beginning with playful psychedelic distortion, looping motion, and instructional broadcast aesthetics inspired by 1970s television",
+  "scene_description": "The supplied video is reprocessed from the start. Existing imagery remains visually dominant while colors bloom, shapes wobble, and motion repeats in a friendly but slightly uncanny way, as if part of an old educational broadcast explaining something abstract.",
+  "tone": "curious, whimsical, slightly strange",
+  "intent": "Create a psychedelic remix that evokes the look and feel of a 1970s educational television segment, emphasizing analog textures, repetition, and gentle surrealism rather than narrative or realism."
+}

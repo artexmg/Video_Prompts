@@ -1,0 +1,126 @@
+[VOICE/NARRATION]: Off
+Paranoia: Segment I, Awarness Phase
+
+[FORMAT]
+duration: 25 seconds
+resolution: 8K-UHD
+fps: 48
+segment_sec: 1.4–1.8
+mode: montage
+tempo_factor: 2.0
+
+[STYLE]
+Psychological horror / surreal realism
+Cold silver-blue monochrome
+Rigid glass mirrors under tension (NOT liquid)
+Path-traced PBR, volumetrics, caustics
+35mm anamorphic + 50mm macro inserts
+Handheld micro-instability, breathing lens
+Grounded physics, no float
+
+[NEGATIVE PROMPT]
+NO stylization
+NO rubber mirrors
+NO global wobble
+NO slow motion
+NO frame holds
+NO soft deformation
+NO liquid mirror surfaces
+
+
+STYLE:
+Narrative Arc: paranoia → distortion → rebellion → rupture → silence
+Visual Mood: cold silver-blue monochrome; low-key lighting; shallow depth; breathing light, not breathing geometry; reflections feel heavy and reluctant; glass under tension
+Setting: bedroom lined with tall, rigid glass mirrors; their surfaces behave like strained solid glass under invisible pressure—distortion appears locally at edges, corners, and points of contact, not as soft global wobble; air remains perfectly dry
+Protagonist: @artexmg.evelyn who is dressing in light nightgown; mid 20s; long dark hair; expressive eyes
+Antagonist: her distorted reflection that gradually gains autonomy and malevolence; the reflection behaves as if imprisoned behind hard glass, always pushing against it rather than flowing freely
+
+GLOBAL VISUAL / CAMERA / LIGHTING
+
+Render engine: path-traced PBR with caustics and volumetrics
+Camera lenses: 35 mm anamorphic (primary), 50 mm macro (close), handheld dolly and orbit shots
+Motion blur: 180 degrees shutter / 1⁄48 s exposure
+Lens effects: subtle barrel distortion (0.5 %), chromatic fringing (±0.5 %), optical breathing 1 %
+Film look: 35 mm LUT, ISO 320, fine grain; halation on speculars
+
+Lighting design: flicker sine 0.5 Hz + strobe bursts 2 Hz + occasional blackout frames
+Color palette: black / gunmetal / pale cyan highlights
+Environment haze: volumetric density 0.25; absorption 0.6
+
+Mirror behavior:
+Mirrors are optically sharp, rigid glass with hard edges and crisp specular highlights.
+No soft, rubbery, or jelly-like deformation.
+Distortion is localized, asymmetric, and appears only near: frame edges, corners, and where her body, breath, or hands approach.
+Motion in the glass is reluctant and delayed, as if the material resists before yielding.
+Mirror shader:
+Base refractive index 1.52 (realistic glass); during “pull” transition, stress-fracture shears and edge warping occur while refractive index shifts 1.55 → 1.33 along crack lines only.
+Brief micro-cracks and stress lines flash for 1–2 frames before any major deformation, then heal.
+
+Distortion hierarchy (very important):
+At any moment, prioritize ONE hero effect only:
+Either refraction warping OR temporal echo OR chromatic aberration—never all at full strength simultaneously.
+
+
+[SEGMENTS]
+
+0.00–0.05
+Anchor image already in motion — extreme macro eye, catchlight flickers, mirror edge micro-shears pulsing to heartbeat
+
+0.05–1.6
+Eye dilation — vertical edge bands jitter 1–2px, rest of mirror rigid
+
+1.6–3.0
+Hand enters frame — mirror edges react BEFORE contact, delayed micro-refraction
+
+3.0–4.4
+She sits up — reflections align but edge streaks shear in broken segments
+
+4.4–5.8
+Camera orbit — rolling shutter tension, mirror corners bend imperceptibly (millimeter scale)
+
+5.8–7.2
+Condensation forms — droplets obey gravity, glass rigid, distortion only at contact points
+
+7.2–8.6
+She turns — reflection late by 0.04s, confined inside frame boundaries
+
+8.6–10.0
+Micro-cracks flash for 1 frame near edge — immediately heal
+
+10.0–11.4
+Hand approaches mirror — refraction distortion localized to fingertip proximity
+
+11.4–12.8
+Reflection subtly anticipates motion (moves 1 frame early)
+
+12.8–14.2
+Hard snap sync — everything aligns perfectly again
+
+14.2–15.6
+Camera push — breathing lens, tension rises, heartbeat 100→110 bpm
+
+15.6–17.0
+Edge streak distortions increase in amplitude but remain localized
+
+17.0–18.4
+Reflection lags again — now 0.08s delay
+
+18.4–19.8
+Condensation beads reverse briefly then snap back (micro anomaly)
+
+19.8–21.2
+Hand touches glass — sharp specular highlight, no deformation
+
+21.2–22.6
+Reflection hand touches first (lead timing)
+
+22.6–24.0
+1-frame fracture flash under palm — disappears instantly
+
+24.0–24.8
+Hard blackout mid-breath
+
+[AUDIO]
+Dark electro 100 BPM
+Sub heartbeat + metallic tension creaks
+Whispers barely audible (“wake up”)

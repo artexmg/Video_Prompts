@@ -1,0 +1,142 @@
+🌮🦖 STREET FOOD FINAL BOSS
+
+(Fighting Game Boss Intro / Meme-Cinema)
+
+FORMAT (HARD LOCKS)
+Duration: 20–25s
+Aspect: 9:16 (vertical)
+FPS: 48
+Genre: Boss intro → escalation → KO freeze
+MAX SHOT LENGTH: 1.3s
+Avg shot: 0.6–0.9s
+
+NO ESTABLISHING SHOTS
+Anchor image visible at 0.00s, already moving
+CAMERA LAW (NON-NEGOTIABLE)
+Always in motion: lateral glide, micro push-ins, whip-pans
+Fighting-game intro cadence:
+side-walks
+low-angle intimidation
+snap zooms on impact
+Subtle camera shake on footsteps
+Focus snaps aggressively (arcade-style emphasis)
+
+VISUAL LANGUAGE (CORE)
+Fighting game HUD overlays (clean, bold, readable)
+UI elements float in screen space, not world space
+
+Health bar at top:
+FLAVOR ██████████
+Power-up icons:
+🟢 GUAC
+🔴 SALSA
+🟡 LIME
+
+UI animates on beats, not continuously
+
+AUDIO
+PHONK / boss intro beat
+BPM: 95–105
+Heavy kicks = footsteps
+UI SFX:
+menu blips
+power-up chimes
+KO hit (classic arcade bass slam)
+
+TIMELINE / SCENE MAP
+BEAT MAP
+
+0.00–0.25s
+Smash cut in mid-stride
+Camera already moving sideways but overcorrecting
+TacoRex partially off-frame
+Lettuce whips past lens
+👉 Viewer enters late — zero setup
+
+0.25–0.45s
+Whip-pan overshoots → snaps back
+Low-angle tilt catches TacoRex head late
+Micro shake on step
+
+0.45–0.65s
+HUD slams in, not fades
+FLAVOR bar flashes for 2 frames then locks
+Power-up icons flicker once (not readable yet)
+
+0.65–0.9s
+Ground stomp
+Camera lags behind impact
+Crack propagates outward
+Taco remains perfectly intact
+Bass hit = stomp
+
+
+0.09–2.2s — INTIMIDATION LOOP
+hard cut - no continuation of the previous motion
+Low-angle push-in on TacoRex head
+Slow, deliberate stomp
+Ground cracks outward
+Tacos remain perfectly intact
+
+Bass hit = ground crack
+
+2.2–3.8s — FLAVOR BAR ACTIVATES
+Health bar animates in with glitch snap
+Label locks:
+FLAVOR ██████████ (MAX)
+Small spark animation at full bar
+
+3.8–6.0s — POWER-UP SEQUENCE
+Rapid 0.6–0.8s cuts:
+Macro whip-pan: SALSA icon lights 🔴
+Smash cut: GUAC icon pulses 🟢
+Snap zoom: LIME icon flashes 🟡
+Each icon:
+brief chime
+tiny screen shake
+
+6.0–9.0s — STOMP LOOP
+TacoRex stomps forward twice
+Each stomp:
+camera lags slightly
+environment shakes
+tacos wobble but do NOT fall
+Camera alternates:
+low angle → side → low angle
+
+9.0–12.0s — PLAYER INTRO (MISSING)
+HUD flashes:
+
+PLAYER 2…
+Static
+UI glitches
+No response
+Soft error beep
+
+12.0–15.0s — BOSS ADVANCES
+TacoRex leans toward camera
+Roars
+Camera pulls back instinctively
+Flavor bar flickers but stays full
+
+15.0–18.0s — FINAL MOVE
+Rapid whip-pans between toppings
+Motion accelerates
+PHONK beat intensifies
+TacoRex lunges slightly forward
+
+18.0–19.5s — KO
+💥 KO SOUND (arcade classic)
+Sudden hard stop
+Freeze frame mid-roar
+Slight chromatic aberration
+
+19.5–21.5s — END CARD
+Big bold text slams in with screen shake:
+INSERT COIN 🌮
+Beat cuts immediately after.
+PHYSICS RULES
+Taco structure = rigid + weighted
+Ingredients obey inertia
+No float, no jelly motion
+All impacts have camera delay

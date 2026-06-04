@@ -1,0 +1,113 @@
+[VOICE/NARRATION]: Off
+[FORMAT]
+resolution: 8K-UHD minimum
+segment_sec: 2.0
+fps: 48
+mode: montage
+tempo_factor: 1.8-2.2
+
+[STYLE]
+Surreal / hyper-real live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; 
+grounded physics
+
+[NEGATIVE PROMPT]
+ZERO stylization
+NO cartoon-look
+NO anime-look
+No painterly texture
+No cel-shade
+No comic-book ink
+No glossy game CG
+No infographic overlays
+No time-remap
+No slow-mo
+No freeze frame
+No slideshow
+No frameholds > 0.01s
+No captions
+
+
+Anchor image fills frame already in movement;
+start anchor-reference image at .00-.01s, Anchor image fills frame already in movement; 
+cut to dark at 14.8 s; end clean.
+
+ANCHOR IMAGE OVERRIDE (CRITICAL)
+The provided anchor image is the FIRST FRAME at 0.0s
+The anchor image is ALREADY IN MOTION
+It is NOT a still, reveal, or establishing shot
+Action, camera movement, and audio begin at frame one
+
+[AUDIO]: On
+
+[VOICE/NARRATION]: Off
+[Audio & Rhythm]
+FX is loud, SFX is EPIC, and is synchronized to visual motion and transitions. Hyper-real sound design. realistic sounds.
+No voice over, only background music:
+
+-----------------
+
+[BACKGROUND MUSIC]
+Target feel (non-negotiable): gentle rebirth, warmth after long darkness, quiet optimism without bombast
+Era gravity: late-1960s British folk-rock, pastoral and intimate
+Emotional arc: winter → thaw → light → calm certainty (not triumph)
+
+🔒 CORE MUSICAL CONSTRAINTS (LOCKED)
+Tempo: ~128–132 BPM (light, buoyant, never rushed)
+Meter: 4/4 with subtle internal syncopation (feels like skipping steps)
+Key center: bright major tonality with modal color (Lydian-leaning lift via raised 4th)
+Harmony: simple, diatonic progressions with gentle suspensions; no heavy blues tension
+Dynamics: soft → warm → slightly fuller → back to soft (no big climax)
+
+🎸 INSTRUMENTATION (WEIGHTED)
+Primary guitar: clean acoustic steel-string, capoed high on the neck
+light fingerpicking + soft strums
+percussive taps on the guitar body (human, intimate)
+Secondary texture: subtle electric guitar harmonics or doubled acoustic shimmer
+Percussion:
+brushed drums or light hand percussion
+taps, shakers, gentle kick — never a heavy backbeat
+Bass: melodic, supportive, walking lightly — felt more than heard
+Optional color: faint strings or Moog-like warmth, blended low
+
+🎤 VOCAL CONSTRAINTS
+Lead vocal: warm, relaxed male tenor
+close-mic’d, intimate, smiling through the phrasing
+no grit, no aggression, no belting
+
+Backing vocals:
+soft stacked harmonies
+enter only in later sections, like sunlight filling the room
+never dominate the lead
+
+🌞 MELODIC & RHYTHMIC CHARACTER
+Melody rises gently, often stepping upward (hopeful contour)
+Phrasing slightly behind the beat → relaxed confidence
+Repeating rhythmic guitar figure acts as the song’s heartbeat
+No sharp stops, no dramatic breaks — flow is continuous
+
+🧠 PRODUCTION CONSTRAINTS (CRITICAL)
+Analog warmth, late-60s studio feel
+Natural room reverb, short tails
+No modern compression slam
+Stereo image feels open and airy, like windows being opened
+Everything feels human, slightly imperfect, alive
+
+🌤️ LYRIC-SHAPE GUIDANCE (DO NOT COPY ORIGINAL)
+Themes:
+long hardship ending
+relief without bitterness
+quiet gratitude
+Language: simple, conversational, optimistic without being naive
+Imagery: light, warmth, returning days, emotional thaw
+
+🚫 HARD NEGATIVES (ABSOLUTE)
+❌ no dark minor mood
+❌ no arena-rock energy
+❌ no heavy drums
+❌ no modern pop polish
+❌ no epic buildup or drop
+
+🧲 ANCHOR PHRASE (OPTIONAL, FOR MODEL STEERING)
+“It feels like stepping outside after a long winter and realizing the cold is finally gone.”

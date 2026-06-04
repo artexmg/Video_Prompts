@@ -1,0 +1,195 @@
+{
+  "video_title": "Dream Pool — Sunken Manhattan (Physics & Wonder)",
+  "general_description": {
+    "subject": "Two young adult women in a surreal, crystal-clear flooded Manhattan, walking and laughing underwater as sunlight filters between skyscrapers. The sequence blends dreamlike grace with real physics — buoyancy, bubbles, cloth dynamics, refraction and large-scale urban underwater flow.",
+    "tone": "ethereal realism, gentle joy, and transcendence",
+    "style": "cinematic photomanga, underwater dream aesthetic, true-physics simulation",
+    "environment": "submerged Manhattan cityscape: turquoise gradient, sun shafts through the surface and between towers, drifting debris and microbubbles, soft caustic grids reflecting off glass façades; occasional coral and algae on urban structures",
+    "audio": "ambient underwater hums, soft laughter filtered through water, distant structural groans, bubble crackles, faint surface shimmer",
+    "physics_realism": {
+      "fluid": {
+        "medium": "clear salt/fresh mix (urban flood), low-to-moderate turbidity increasing with depth",
+        "index_of_refraction": 1.333,
+        "turbidity": "shallow zones extremely clear; deeper streets slightly hazed",
+        "suspended_particulate": "0.2 mg/L silica/silt near street level"
+      },
+      "buoyancy": {
+        "state": "near-neutral",
+        "vertical_drift": "0.07 m/s",
+        "foot_contact": "occasional; dust/silt puffs from roofs, buses, and street beds lasting <2 s"
+      },
+      "cloth_dynamics": {
+        "material": "light cotton / chiffon blend, density 950–1050 kg/m³",
+        "drag_coefficient": "1.2–1.6",
+        "lag_delay": "200–400 ms behind body movement",
+        "air_trap": "initial positive buoyancy from air pockets; purge over 2–3 s",
+        "hem_behavior": "flares upward then settles; small vortex shedding"
+      },
+      "hair_dynamics": {
+        "behavior": "low Reynolds-number flutter, clumping and curling under motion",
+        "reaction_delay": "0.15 s after head turns",
+        "spread": "fan-like flow in lateral movement"
+      },
+      "bubbles": {
+        "size_range": "0.5–5 mm",
+        "rise_speed": "0.15–0.30 m/s",
+        "detachment": "from fabric edges, straps, and hands",
+        "patterns": "spiral microtrails forming around fingers and hem edges"
+      },
+      "optics": {
+        "refraction": "Snell + Fresnel equations, 5–8% surface reflectance",
+        "caustics": "cell size 6–12 cm, sweep velocity 0.2–0.4 m/s; interference from window grids",
+        "dispersion": "slight chromatic shift, enhanced blue-green bias with red attenuation",
+        "surface_reflection": "rippling mirror distortion with refracted self-images and skyline silhouettes"
+      },
+      "particles_and_flow": {
+        "ambient_current": "0.2–0.4 m/s crossflow along street canyons with slow vortices around tower corners",
+        "vortices": "toroidal eddies trailing limbs, dissipate in 1–2 s",
+        "streaklines": "visible laminar flow trails illuminated by caustics",
+        "boundary_layer": "thin film following fabric contours"
+      },
+      "camera_physics": {
+        "lens": "26 mm underwater dome",
+        "aperture": "f/4.5",
+        "shutter_speed": "1/400 s",
+        "iso": 800,
+        "white_balance": "8500K (warm skin tones in cyan water)",
+        "optical_effects": "chromatic dispersion at surface, slight distortion at wide angles"
+      },
+      "sound_physics": {
+        "filtering": "low-pass under 1.5 kHz",
+        "sources": "bubble crackle, body wake, distant surface ripple, deep urban resonance",
+        "reverb": "minimal — acoustic damping from water"
+      }
+    }
+  },
+  "scenes": [
+    {
+      "scene_title": "Scene 1 — Descent over Manhattan",
+      "description": "Overhead view as the camera dives through the liquid skyline. Sunbeams split between skyscrapers; the two young women descend slowly above a street canyon, dresses ballooning with trapped air.",
+      "camera": "overhead crane, slow dolly dive between towers",
+      "motion": "gradual descent; fabrics lag with 300 ms delay; hands drift naturally downward",
+      "lighting": "volumetric rays through suspended particles; caustics flicker off glass façades",
+      "physics": {
+        "buoyancy": "neutral with downward drift 0.07 m/s",
+        "bubbles": "rising 0.2 m/s, 1–3 mm",
+        "optics": "refraction and surface ripple distortion on faces; skyline silhouettes reflected"
+      },
+      "mood": "serene anticipation, dream initiation",
+      "audio": "soft hums, faint water entry, distant creaks of submerged steel"
+    },
+    {
+      "scene_title": "Scene 2 — First Laugh, Broadway Deep",
+      "description": "They touch down on a rooftop near faded Times Square billboards. Their laughter releases small air streams while jellyfish-like plastic strips drift past neon remnants.",
+      "camera": "medium shot at waist level, slightly upward angle toward surface glow",
+      "motion": "shoulders shake with laughter; bubbles and fabric rise gently; ambient current pushes hair sideways",
+      "lighting": "soft caustics sweep across faces; neon signage glows faintly under cyan light",
+      "physics": {
+        "cloth": "drag ~1.4; hem lags 0.3 s behind movement",
+        "bubbles": "dense clusters escaping from mouths, rising 0.15–0.25 m/s",
+        "flow": "microvortices from motion fade within 2 s; crossflow ~0.3 m/s"
+      },
+      "mood": "playful joy and urban wonder",
+      "audio": "muted laughter, bubble pops, low thrumming of distant subway voids"
+    },
+    {
+      "scene_title": "Scene 3 — Weightless Walk along 5th Ave",
+      "description": "They walk gracefully along a sand-dusted bus roof and past street signs; fish schools ripple through display windows as dresses trail like slow ribbons.",
+      "camera": "side dolly following at equal pace down the avenue",
+      "motion": "hair and cloth flow backward with laminar street-canyon current",
+      "lighting": "dynamic caustics on façades and street bed; turquoise-to-teal gradient",
+      "physics": {
+        "drag": "cloth Cd=1.4; delayed hem response",
+        "buoyancy": "neutral; silt puffs beneath steps dissipate <2 s",
+        "wake": "turbulent vortex sheet trailing legs, dissipating in 1.5 s"
+      },
+      "mood": "calm freedom, dreamlike rhythm",
+      "audio": "soft footsteps over metal roof; rhythmic bubble fizz"
+    },
+    {
+      "scene_title": "Scene 4 — Mirror Surface between Towers",
+      "description": "They look upward between skyscrapers to a rippled mirror of the skyline. Their reflections stretch and shimmer alongside the ghostly outline of the Empire State Building.",
+      "camera": "wide-angle tilt up from below; reflections framed by tower edges",
+      "motion": "gentle hand gestures sending ripple waves upward",
+      "lighting": "specular reflections and light flares at surface; highlight bloom off glass",
+      "physics": {
+        "refraction": "Snell & Fresnel blend; 5–8% mirror reflectance",
+        "bubbles": "micro trails floating to the top edge",
+        "distortion": "surface waves bend reflected faces and buildings"
+      },
+      "mood": "awe and quiet introspection",
+      "audio": "slow ambient swell, faint shimmer tone"
+    },
+    {
+      "scene_title": "Scene 5 — Caustic Dance in Central Park Basin",
+      "description": "A wide orbit reveals drifting leaves like suspended petals; caustic lattices sweep across algae-dusted benches as the women dance in slow arcs.",
+      "camera": "360° slow orbit at 2 m radius",
+      "motion": "graceful sway synchronized with caustic motion and gentle cross-current",
+      "lighting": "moving grid of light (6–12 cm cells) sweeping 0.3 m/s across the ground",
+      "physics": {
+        "fluid": "laminar-to-turbulent transition around ankles and bench edges",
+        "particles": "illuminated streaklines in wake",
+        "cloth": "small oscillations around trailing hem; occasional leaf contact"
+      },
+      "mood": "hypnotic, transcendent",
+      "audio": "light pulsing tones synchronized with light motion"
+    },
+    {
+      "scene_title": "Scene 6 — Bubble Burst near a Sunken Subway",
+      "description": "Close-up of hands and dress hems beside an opened subway car. Trapped air escapes in elegant bubble streams that spiral toward the surface past the doorway.",
+      "camera": "macro zoom, tracking bubbles rising past lens and car signage",
+      "motion": "hands brush fabric; bubble spirals; slight eddies from car edges",
+      "lighting": "bright caustic sparkles on bubbles; shallow depth of field; signage glints",
+      "physics": {
+        "bubbles": "0.5–5 mm, rise 0.2 m/s; spiral trajectories",
+        "cloth": "micro vortex emission points at hem edge",
+        "wake": "faint swirls with visible particulate trails"
+      },
+      "mood": "delicate, fleeting beauty",
+      "audio": "soft popping bubbles, whispering soundscape"
+    },
+    {
+      "scene_title": "Scene 7 — Ascent / Dream Exit above Manhattan",
+      "description": "They rise toward golden sunlight with skyline silhouettes below; the surface opens like glass as their dresses trail in haloed ribbons.",
+      "camera": "tracking upward shot from below, silhouettes against the sun",
+      "motion": "floating dresses trail with halo effect; upward drift ~0.1 m/s",
+      "lighting": "golden rim light and volumetric bloom; prism dispersion at edges",
+      "physics": {
+        "buoyancy": "positive drift, acceleration to surface",
+        "cloth": "trailing 0.3 s delay, fluttering halo",
+        "optics": "chromatic dispersion; prism effect around silhouettes"
+      },
+      "mood": "transcendent, serene awakening",
+      "audio": "crescendo of light tones, fading to silence at surface"
+    }
+  ],
+  "physics_notes_to_bake": {
+    "buoyancy": "Near-neutral; slow sink rate ≈ 0.07 m/s; subtle lift during stride.",
+    "cloth_dynamics": "Chiffon fabric Cd≈1.4; 200–400 ms lag; trapped air release over 2–3 s.",
+    "hair_motion": "Clumped flutter; curl memory; slow drift alignment with eddies.",
+    "bubble_behavior": "0.5–5 mm; rise 0.15–0.30 m/s; spiral detachment from fabric.",
+    "optics": "IOR water 1.333; Snell & Fresnel reflection; caustic cell 6–12 cm moving 0.2–0.4 m/s; dispersion at edges; glass-façade interference.",
+    "lighting_physics": "Volumetric caustics (≈20° cone spread); attenuation gradient 6000–8500K; visible particle scattering.",
+    "flow_field": "Street-canyon crossflow 0.2–0.4 m/s; micro-vortices shed from limbs dissipate within 1.5 s; boundary layer clings to fabric before breakup.",
+    "camera_physics": "26 mm lens; f/4.5; shutter 1/400 s; 8500K white balance; ISO 800; dome housing refraction distortion."
+  },
+  "drop_in_physics_realism_block": {
+    "fluid": "urban flood water with low turbidity in shallows, slight haze in deeper avenues",
+    "IOR": 1.333,
+    "suspended_particulate": "0.2 mg/L",
+    "ambient_current": "0.3 m/s street-canyon crossflow; soft vortices around building corners",
+    "buoyancy": "Neutral drift, vertical 0.07 m/s downward",
+    "cloth_drag": 1.4,
+    "bubble_rise": "0.2 m/s; detached from hands and hems",
+    "vortex_dissipation": "1–2 s",
+    "caustic_speed": "0.3 m/s with façade interference patterns",
+    "chromatic_dispersion": "blue-green bias, red falloff",
+    "lighting_gradient": "sunlight 5600K above → 8500K underwater",
+    "camera": {
+      "focal_length": "26 mm",
+      "shutter_speed": "1/400 s",
+      "ISO": 800,
+      "white_balance": "8500K"
+    }
+  }
+}

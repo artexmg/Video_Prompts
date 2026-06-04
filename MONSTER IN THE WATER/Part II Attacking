@@ -1,0 +1,77 @@
+[VOICE]: Off
+[FORMAT]
+resolution: 8K-UHD 48fps
+segment_sec: 2.0
+mode: montage
+tempo_factor: 1.8-2.2
+[STYLE]
+Hyperreal live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; grounded physics
+[NEGATIVE PROMPT]
+NO cartoon or anime look
+No painterly texture
+No cel-shade
+No comic-book ink
+No glossy game CG
+No time-remap
+No frameholds > 0.01s
+
+[CHARACTER]
+@Murky Kraken — grotesque skeletal octopus-like titan, wet organic mass, pressure-driven physiology
+
+[SEGMENTS]
+6 segments with 2 scenes each of live-action video based from the reference image;  Anchor image fills frame already in movement;
+start anchor-reference image at .00-.01s, Anchor image fills frame already in movement; following segments MUST be < 2.0 s each; 
+
+Scene 1
+EXTREME CLOSE — CONTINUATION OF LUNGE
+Camera violently whips sideways as the creature’s jaws snap shut just past lens; shockwave pushes mist and spray outward;teeth clash with wet, bone-like crack; saliva strands stretch and snap.
+
+Scene 2
+LOW FPV — SHORELINE IMPACT ZONE
+Camera skims just above wet rocks; massive tendril slams down behind frame; debris and water blast forward; pebbles strike lens; ground visibly trembles; shockwave propagates through puddles.
+
+Scene 3
+MEDIUM — TACTICAL TEAM DEPLOYMENT
+Two operators drop to one knee behind rocks; one shoulders a compact launcher; the other signals forward; wind tears at clothing; laser designator flickers across creature’s chest through mist.
+
+Scene 4
+AERIAL LOW — HELICOPTER ENGAGE
+Helicopter banks hard left, descending dangerously low; mounted weapon system pivots; floodlight locks onto creature’s face; rotor wash flattens waves; spray streaks horizontally.
+
+Scene 5
+IMPACT CLOSE — FIRST STRIKE
+Projectile hits creature’s upper jaw; localized explosion of water, bone fragments, and algae; flesh recoils with visible inertia; tendrils snap backward violently; shock ripples through surrounding mass.
+
+Scene 6
+REACTION — CREATURE COUNTERFORCE
+Creature twists its head unnaturally fast; massive tendril whips upward toward helicopter; air displacement visible in mist; camera tracks with delayed lag; scale becomes overwhelming.
+
+Scene 7
+NEAR MISS — HELICOPTER EVASION
+Tendril passes inches beneath helicopter; pilot jerks upward; rotor clips spray column; water bursts into vaporized mist; aircraft shudders; camera stays tight under belly.
+
+Scene 8
+GROUND — SECONDARY TEAM FIRE
+From behind rocks, multiple synchronized shots fire (compressed gas / harpoon-like projectiles); cables deploy mid-air; lines snap taut as they anchor into creature’s lower limb.
+
+Scene 9
+TENSION — RESTRAINT ATTEMPT
+Cables strain under extreme force; metal anchors grind into rock; creature pulls back; tension lines vibrate violently; water churns into foam; physics clearly resisting control.
+
+Scene 10
+FAILURE — SYSTEM OVERLOAD
+One cable snaps with explosive recoil; anchor rips free; operator is thrown sideways into wet sand; camera jolts with impact; sound hits heavy and blunt.
+
+Scene 11
+MONSTER ESCALATION — FULL HEIGHT REVEAL
+Camera pulls back slightly as creature rises higher than before; torso emerges further from ocean; scale increases dramatically; storm clouds distort behind it; mist funnels upward.
+
+Scene 12
+TARGET LOCK — FINAL BEAT
+Close on woman with spear gun; she steadies, breathing controlled despite chaos; digital display flickers; reticle aligns with exposed throat region; wind tears across frame.
+
+Scene 13 (END HOOK)
+IMMINENT RELEASE — CUT BEFORE IMPACT
+She pulls trigger—compressed launch sound begins—cut to black mid-motion before projectile exits frame.

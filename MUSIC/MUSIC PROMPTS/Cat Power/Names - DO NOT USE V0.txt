@@ -1,0 +1,82 @@
+Minimalist Emotional Vignette — 25s
+
+CORE INTENT (LOCKED)
+
+This piece is about naming as loss.
+Words once meant something. Now they echo.
+Emotion is present, but never explained.
+
+No climax.
+No resolution.
+Just recognition.
+
+TEMPORAL FORMAT (HARD CONSTRAINTS)
+
+Duration: 25.0 seconds
+
+Tempo feel: Free / slow pulse (≈ 56–62 BPM implied, not explicit)
+Meter: Undefined / breath-driven
+Dynamic range: Narrow, intimate, restrained
+Ending: Unresolved decay (no cadence)
+
+EMOTIONAL ARC (ABSTRACTED)
+Presence → hesitation → withdrawal → quiet persistence
+No “sadness cue.”
+Emotion emerges only through space, delay, and restraint.
+
+STRUCTURAL TIMELINE
+0.0 – 5.5s | Arrival
+Single sustained harmonic element (piano, reed, or filtered pad)
+Slight instability: pitch drift, breath noise, mechanical imperfection
+Silence is part of the rhythm
+Rule: Nothing announces itself.
+
+5.5 – 11.0s | Attempt to Speak
+Fragile melodic fragment enters (2–3 notes max)
+Human-adjacent articulation: hum, bowed string, voice-like synth
+Notes do not resolve; they stop short
+Negative space increases
+Constraint: No full phrase allowed.
+
+11.0 – 16.5s | Names Without Referents
+A second layer mirrors the first, but delayed and degraded
+Slight detuning or time smear
+Call-and-response that never quite connects
+Emotion rises, but volume does not
+Rule: Intensity grows internally, not sonically.
+
+16.5 – 22.0s | Letting Go
+One layer fades completely
+Remaining sound thins to near silence
+Rhythm dissolves into breath-length pauses
+Visual: subject partially exits frame or is obscured (fog, shadow, motion blur)
+Constraint: No replacement for what disappears.
+
+22.0 – 25.0s | After the Name
+Final sustained tone, barely audible
+Ambient noise (room tone, wind, tape hiss) becomes dominant
+Cut ends before emotional closure
+Rule: The piece stops, it does not finish.
+
+SONIC LANGUAGE (NON-NEGOTIABLE)
+Dry, intimate, close-mic perspective
+No reverb tails longer than 1.2s
+Imperfection preferred over polish
+Human timing > grid timing
+Silence treated as content
+
+VISUAL LANGUAGE (IF APPLIED)
+Static or near-static composition
+No montage, no fast cuts
+Natural light only
+One subject, one space, no explanation
+Movement must feel incidental, not staged
+
+WHAT THIS IS NOT
+
+❌ Not a song
+❌ Not a cover
+❌ Not nostalgia-as-aesthetic
+❌ Not emotional manipulation
+
+This is emotional residue.

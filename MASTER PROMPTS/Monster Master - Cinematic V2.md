@@ -1,0 +1,69 @@
+[VOICE/NARRATION]: Off
+[FORMAT]
+resolution: 8K-UHD minimum
+segment_sec: 2.0
+fps: 24 - 48
+mode: montage
+tempo_factor: 1.8-2.2
+
+[STYLE]
+Surreal / hyper-real live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; 
+grounded physics
+
+[NEGATIVE PROMPT]
+ZERO stylization
+NO cartoon-look
+NO anime-look
+No painterly texture
+No cel-shade
+No comic-book ink
+No glossy game CG
+No infographic overlays
+No time-remap
+No slow-mo
+No freeze frame
+No slideshow
+No frameholds > 0.01s
+No captions
+
+
+
+[SEGMENTS]
+9 segments with 2 scenes each of live-action video based from the reference uploaded image; 
+
+[MAIN IDEA]
+Anchor image fills frame already in movement;
+start anchor-reference image at .00-.01s, Anchor image fills frame already in movement; following segments MUST be < 2.0 s each; 
+cut to dark at 24.8 s; end clean.
+
+ANCHOR IMAGE OVERRIDE (CRITICAL)
+The provided anchor image is the FIRST FRAME at 0.0s
+The anchor image is ALREADY IN MOTION
+It is NOT a still, reveal, or establishing shot
+Action, camera movement, and audio begin at frame one
+
+[AUDIO]: On
+
+[VOICE/NARRATION]: Off
+[Audio & Rhythm]
+FX is loud, SFX is EPIC, and is synchronized to visual motion and transitions. Hyper-real sound design. Monsters roaring, growling, realistic sounds.
+No voice over, only background music:
+
+[BACKGROUND MUSIC]
+135-145 BPM PHONK and OMINOUS dark-electro midtempo
+Epic PHONK + hybrid orchestral + industrial percussion
+
+135–150 BPM
+Constant sub-bass pressure synced to impacts
+Loud, aggressive, theatrical mix
+Metallic shrieks, air tearing, debris shear
+Overall Feeling
+Relentless
+Violent
+Mythic
+Overstimulating in a good way
+Audience should feel attacked, not invited
+Music feels heavy, punchy, deep BOOOOM drops with metallic hits, sub-bass pulses, cyber-industrial energy. 
+Strong emphasis on deep kicks and dark music textures.

@@ -1,0 +1,258 @@
+CONSTRAINT-WEIGHTED PROCEDURAL PROMPTING (CWPP)
+==============================================
+
+OVERVIEW
+--------
+Constraint-Weighted Procedural Prompting (CWPP) is a prompting strategy designed for generative video and audio models (e.g., Sora) that behave more like simulators than text generators.
+
+Instead of emphasizing word frequency or descriptive richness, CWPP prioritizes:
+- hard constraints
+- procedural rules
+- temporal choreography
+- causal motion
+- system-level behavior
+
+The prompt is treated as an executable specification rather than a description.
+
+The goal is not to “describe what something looks like,” but to
+define how a scene, system, or performance MUST behave over time.
+
+CWPP assumes that models respond more strongly to rules, negations,
+and causality than to stylistic adjectives.
+
+---
+
+CORE PRINCIPLES
+---------------
+
+1. CONSTRAINTS HAVE MORE WEIGHT THAN WORDS
+------------------------------------------
+Hard constraints dominate output behavior.
+
+Examples:
+- NO static shots
+- EVERY scene < 2 seconds
+- Camera ALWAYS moving
+- Nothing floats unless actively forced
+
+Constraints override descriptive language.
+Negations and absolutes ("NO", "ALWAYS", "NEVER") carry maximum weight.
+
+---
+
+2. PROCEDURE OVER DESCRIPTION
+-----------------------------
+CWPP defines WHAT HAPPENS and HOW IT UNFOLDS,
+not just how things appear.
+
+Instead of:
+- “A dramatic battle scene”
+
+Use:
+- “Subjects advance, collide, recoil, re-engage; camera lags after impact; debris travels laterally under force.”
+
+The model is guided step-by-step through a process.
+
+---
+
+3. TEMPORAL STRUCTURE IS EXPLICIT
+--------------------------------
+Time is not implicit.
+
+CWPP explicitly defines:
+- duration
+- shot length limits
+- sequencing
+- escalation or denial of escalation
+
+Examples:
+- Duration: 25s
+- Max shot length: 1.6s
+- Average shot: 0.7–1.0s
+- No slow buildup
+- No long outro drift
+
+This prevents the model from defaulting to slow, cinematic pacing.
+
+---
+
+4. CAUSALITY > AESTHETICS
+------------------------
+CWPP prioritizes cause-and-effect logic.
+
+Examples:
+- Impacts cause camera shake
+- Energy overload causes lens failure
+- Mass causes inertia
+- Pressure creates shockwaves
+
+Visuals must obey implied physics.
+
+Aesthetic terms are secondary and must obey causal rules.
+
+---
+
+5. CAMERA IS AN ACTIVE AGENT
+---------------------------
+The camera is treated as a physical participant, not an observer.
+
+Camera rules often include:
+- dolly push / pull
+- lateral tracking
+- whip correction after impact
+- vibration under force
+- lens breathing
+- snap focus during motion
+
+“No static camera” is a foundational CWPP rule.
+
+---
+
+6. MOTION IS PURPOSEFUL
+----------------------
+Nothing drifts without intent.
+
+Movement must be:
+- directional
+- force-driven
+- reactive
+
+Examples:
+- forward propulsion
+- evasive maneuvers
+- collision response
+- recoil and recovery
+
+Ambient motion (floating, swaying, idle loops) is explicitly discouraged unless intentional.
+
+---
+
+7. AUDIO IS STRUCTURALLY COUPLED TO MOTION
+------------------------------------------
+Sound is not decorative.
+
+CWPP binds audio to events:
+- drum hits = scene cuts
+- bass impacts = collisions
+- tempo governs edit density
+- silence used as structural punctuation
+
+Music, SFX, and motion evolve together.
+
+---
+
+8. STYLE IS A MODULATOR, NOT A DRIVER
+------------------------------------
+Style, color, and aesthetic language are applied AFTER constraints.
+
+CWPP treats style as a shader, not a rule engine.
+
+Examples:
+- pointillist particles
+- ink-wash rendering
+- analog film grain
+
+These must obey:
+- motion rules
+- physics rules
+- camera rules
+
+Style cannot override behavior.
+
+---
+
+9. NEGATIVE SPACE IS DEFINED EXPLICITLY
+--------------------------------------
+CWPP actively defines what must NOT happen.
+
+Examples:
+- NO slow awakening
+- NO standing poses
+- NO floating particles
+- NO triumphant resolution
+
+This prevents default model tropes from taking over.
+
+---
+
+10. WEIGHTING IS HIERARCHICAL
+-----------------------------
+CWPP assumes an implicit hierarchy of influence:
+
+1. Hard constraints / negations
+2. Temporal limits
+3. Causal rules
+4. Camera behavior
+5. Motion logic
+6. Audio synchronization
+7. Structural patterns
+8. Stylistic descriptors
+9. Adjectives
+
+Lower layers must obey higher layers.
+
+---
+
+HOW CWPP DIFFERS FROM TF-IDF PROMPTING
+--------------------------------------
+TF-IDF Prompting:
+- Weights words by frequency and distinctiveness
+- Treats prompts as bags of terms
+- Ignores time and causality
+- Encourages descriptive density
+
+CWPP:
+- Weights rules and constraints
+- Treats prompts as procedural specifications
+- Explicitly encodes time, motion, and cause-effect
+- Encourages behavioral clarity over verbosity
+
+TF-IDF selects vocabulary.
+CWPP controls outcomes.
+
+---
+
+MENTAL MODEL
+------------
+CWPP treats the model as:
+- a physics sandbox
+- a timeline engine
+- a cinematography simulator
+
+The prompt is not a caption.
+It is a control document.
+
+---
+
+WHEN TO USE CWPP
+----------------
+CWPP is ideal when:
+- motion matters
+- pacing matters
+- physics consistency matters
+- cinematic energy is required
+- default “pretty but static” outputs must be avoided
+
+It is especially effective for:
+- hyper-kinetic video
+- music-synced visuals
+- action, ritual, or transformation scenes
+- experimental montage
+- generative cinematography
+
+---
+
+SUMMARY
+-------
+Constraint-Weighted Procedural Prompting replaces descriptive prompting
+with rule-based control.
+
+It prioritizes:
+- constraints over adjectives
+- procedure over prose
+- causality over vibes
+- time over texture
+
+The result is output that behaves, not just looks.
+
+END OF DOCUMENT

@@ -1,0 +1,240 @@
+SKYFLEET REACTOR CASCADE -Cloud Armada Collapse V2
+
+Duration: 25 seconds
+Aspect Ratio: 9:16 cinematic
+Style: Hyper-kinetic sci-fi war montage
+Genre: Orbital carrier fleet collapse / atmospheric shock escape
+
+RULE ZERO (UNCHANGED)
+
+❌ NO STATIC
+❌ NO HOLDS
+❌ NO ESTABLISHING SHOTS
+
+Every frame mid-disaster.
+
+SHOT LAW
+
+Average: 0.5–1.0s
+Max: 1.3s
+Cuts synced to bass pulses, reactor ruptures, or hull shear impacts
+
+🔊 AUDIO — PRESSURE BEFORE LIGHT
+BGM EVOLUTION
+
+Hybrid PHONK × collapsing war-orchestra
+Tempo drop to ~118 BPM during reactor instability
+Snaps back to 148 BPM during escape
+
+Bass becomes grainy, cracked, overdriven
+
+REACTOR FAILURE AUDIO LANGUAGE
+
+• Sub-bass pressure bloom before visual rupture
+• Deep harmonic engine core hum detunes downward
+• Metal torsion groans pan across stereo field
+• 0.2s vacuum audio collapse
+• Then full-band debris hurricane
+
+SFX Layers:
+
+– Reactor resonance oscillation
+– Massive carrier hull bending (like steel skyscrapers snapping)
+– Ion discharge cracks
+– Atmospheric cloud displacement thunder
+– Pilot breathing sharp + clipped
+– Alarms choking mid-signal
+
+🌍 WORLD LOGIC (LOCKED)
+
+This is not a space station.
+This is a fleet interconnected through energy tethers, supply bridges, and shared reactor grids.
+
+The flagship carrier’s reactor overload propagates through:
+
+– docking pylons
+– energy transfer bridges
+– defensive platforms
+– escort vessels
+
+Explosions travel structurally, not outward symmetrically.
+
+Cloud layer below reacts to shockwaves like a living ocean.
+
+Nothing detonates clean.
+
+📷 CAMERA LAW
+
+Handheld micro-jitter ALWAYS ON
+Exposure struggles against reactor flare bursts
+Debris frequently occludes frame
+Lens breathing extreme under G-force
+
+Lenses:
+35mm dominant (carrier-scale chaos)
+50mm tele for compression of debris fields
+24mm only ≤0.5s for fleet-scale shock moments
+
+No heroic framing.
+No centered compositions.
+
+🧱 PHYSICS
+
+Reactor rupture = pressure + plasma venting
+Hull plating peels like tectonic plates
+Shockwaves displace cloud mass below
+Fighters are shoved, never gliding
+Debris obeys inertia
+
+The fleet collapses unevenly — asymmetric failure only.
+
+⏱️ SCENE FLOW (ALL MICRO-CUTS)
+
+0.0–0.4s
+Reactor chamber fracture inside flagship carrier
+Light lattice destabilizing
+Bass hit lands before image resolves
+
+0.4–1.0s
+Energy surge races through carrier spine conduits
+Camera shakes violently
+
+1.0–1.6s
+Exterior — massive hull segment bulges outward
+Plates shear in slow rippling wave
+
+1.6–2.2s
+Docking bridge between carriers tears apart
+Personnel and debris sucked into void
+
+2.2–2.8s
+Cockpit POV
+Warning lights strobe
+Pilot jerks controls
+
+2.8–3.4s
+Flagship reactor vents sideways
+Blinding plasma blast rips across frame
+
+3.4–4.1s
+Shockwave hits escort fleet
+Smaller cruisers flip uncontrollably
+
+4.1–4.8s
+Cloud layer below compresses
+Atmospheric shock ring forms
+
+4.8–5.5s
+Energy tether between carriers overloads
+Electrical arc snakes across sky
+
+5.5–6.2s
+Entire carrier deck splits
+Massive tower tilts mid-frame
+
+6.2–6.9s
+Fighter narrowly avoids collapsing antenna spires
+
+6.9–7.6s
+Secondary carrier reactor destabilizes
+Internal explosion vents through hull vents
+
+7.6–8.3s
+Chain reaction across fleet grid
+Explosions feel procedural, crawling
+
+8.3–9.0s
+Another fighter caught in blast wake
+Disintegrates mid-frame — camera does not follow
+
+9.0–9.7s
+Massive capital ship begins rotating downward
+Scale overwhelming
+
+9.7–10.4s
+Fighter dives between collapsing superstructure towers
+
+10.4–11.1s
+Debris avalanche — fuel tanks, plating, antenna arrays
+
+11.1–11.8s
+Pilot G-force flicker
+HUD glitches
+
+11.8–12.5s
+Final flagship reactor pulse
+Deep bass drop
+Carrier folds inward
+
+12.5–13.2s
+Fleet fractures into multiple drifting megastructures
+
+13.2–13.9s
+Moons and planets briefly visible through debris chaos
+
+13.9–14.6s
+Fighter skims rotating carrier hull edge
+
+14.6–15.3s
+Secondary atmospheric shockwave hits
+Frame yaws violently
+
+15.3–16.0s
+Cloud ocean below churns violently
+
+16.0–16.7s
+Engine overload warning
+Pilot forces thrust
+
+16.7–17.4s
+Carrier supertower collapses behind
+
+17.4–18.1s
+Rapid 0.2s intercuts:
+– engine strain
+– pilot eyes
+– hull sparks
+– rotating carrier mass
+
+18.1–18.8s
+Fighter dives toward cloud layer
+
+18.8–19.5s
+Debris burns entering upper atmosphere
+
+19.5–20.3s
+Atmospheric turbulence shakes frame hard
+
+20.3–21.1s
+Cloud vapor explosion ripples outward
+
+21.1–22.0s
+Fighter punches through cloud canopy
+
+22.0–23.0s
+Fleet above continues fragmenting in distance
+
+23.0–24.5s
+Acceleration montage (ALL <0.7s):
+– plasma trails
+– debris incinerating
+– engine stabilizing
+– cloud ocean racing below
+– collapsing fleet silhouette
+
+24.5–25.0s
+Hard cut mid-acceleration
+Black
+
+0.15s silence
+
+End.
+
+🧠 ENFORCEMENT NOTES FOR SORA
+
+The collapse is systemic grid failure across a carrier armada
+No centered explosion shots
+The fighter survives by physics margin only
+Cloud layer must react physically to shockwaves
+Maintain adrenaline pressure until blackout
+Never allow relief

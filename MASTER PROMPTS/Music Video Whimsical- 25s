@@ -1,0 +1,39 @@
+
+[VOICE/NARRATION]: Off
+[FORMAT]
+duration: 25 seconds
+resolution: 8K-UHD minimum
+segment_sec: 2.0
+fps: 24 - 48
+mode: montage
+tempo_factor: 1.8-2.2
+
+[MODEL]
+Model: Sora2
+
+[STYLE]
+Surreal / hyper-real live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; 
+grounded physics
+
+[NEGATIVE PROMPT]
+No freeze frame
+No slideshow
+No frameholds > 0.01s
+No captions
+
+[SEGMENTS]
+live-action video based from the reference uploaded image; 
+start anchor-reference image at .00-.05 s
+
+Make it several  scenes, from different angles, different cameras and lenses. All the object should Never be static, and they should follow physics rules.  Keep it always whimsical.  No voice over, Only Music and SFX.
+cut to dark at 24.8 s; end clean.
+
+
+[AUDIO]: On
+FX is  immersive
+
+SFX is EPIC, and is synchronized to visual motion and transitions. Hyper-real sound design. whimsical sounds.
+
+[SOUNDTRACK]

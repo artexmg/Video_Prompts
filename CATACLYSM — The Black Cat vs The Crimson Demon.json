@@ -1,0 +1,106 @@
+{
+  "video": {
+    "title": "CATACLYSM — The Black Cat vs The Crimson Demon",
+    "style": "Pointillist × hyperreal Japanimation",
+    "duration": "15s",
+    "tone": "epic, kinetic, mythic, action-packed",
+    "audience": {
+      "locale": "JP",
+      "tone_note": "impactful, cinematic, visceral shock"
+    },
+    "visual_grade": {
+      "palette": ["black", "crimson", "cobalt"],
+      "contrast": "extreme",
+      "bloom": true,
+      "grain": "fine flicker",
+      "chromatic_aberration": "slight",
+      "lens_flare": "controlled"
+    },
+    "camera": {
+      "lens": "35mm anamorphic",
+      "movement": ["WS", "MS", "CU", "orbit", "push-in", "dolly", "crash zooms"],
+      "vibe": "Matrix-level intensity; physics-defying motion; high-speed parallax"
+    },
+    "lighting": {
+      "primary": "white-cobalt lightning flashes",
+      "secondary": "red infernal core glow",
+      "fx": ["embers", "haze", "vapor arcs", "plasma trails"],
+      "grade": "black-crimson-cobalt triad with bloom halos"
+    }
+  },
+
+  "audio": {
+    "bgm": {
+      "type": "Hybrid orchestral-electronic",
+      "bpm": 128,
+      "instruments": ["taiko drums", "synth bass", "metallic percussion", "rising strings"],
+      "style": "Matrix-style fight sequence; crescendo and drop pattern"
+    },
+    "sfx": [
+      "electrical surges",
+      "thunder impacts",
+      "plasma distortion",
+      "air displacement",
+      "energy ripple shockwaves"
+    ],
+    "mix": {
+      "sidechain": "duck BGM by ~3 dB on impact",
+      "eq": "boost sub 80Hz for shockwave",
+      "reverb": "cinematic hall",
+      "silence_at_end": true
+    },
+    "cues": [
+      {"t": 0.2, "event": "deep rumble — Demon rises"},
+      {"t": 1.8, "event": "thunder crack — Cat appears"},
+      {"t": 4.5, "event": "energy buildup, bass pulse"},
+      {"t": 7.8, "event": "dual lightning release"},
+      {"t": 12.5, "event": "collision blast → silence"}
+    ]
+  },
+
+  "scenes": [
+    {
+      "id": 1,
+      "title": "The Awakening of the Crimson Demon",
+      "description": "Wide shot — a towering red-winged demon emerges from the black void, pointillist light rippling across its body like molten glass. The camera tilts up as its roar bends the air.",
+      "motion": "shards of light swirl around the demon",
+      "camera": "low-angle tilt-up; slow orbit",
+      "lighting": "red aura and glowing veins"
+    },
+    {
+      "id": 2,
+      "title": "The Arrival of the Black Cat",
+      "description": "Lightning splits the void, revealing a small black cat standing alone, its fur illuminated by flashes. Sparks crawl along its silhouette.",
+      "motion": "camera whip-pan to cat under lightning flash",
+      "fx": "white-blue arcs and dust flickers"
+    },
+    {
+      "id": 3,
+      "title": "The Standoff",
+      "description": "They lock eyes — the cat’s glow intensifies, the demon’s grin widens. The void hums with vibrating energy.",
+      "motion": "push-in dual close-up with shaking lens",
+      "sound": "low hum rising to sub-bass pulse"
+    },
+    {
+      "id": 4,
+      "title": "Surge of Power",
+      "description": "The cat grows larger, its eyes now twin suns. The demon charges, wings unfurling — lightning and plasma twist into violent spirals.",
+      "motion": "rapid orbit + debris flying",
+      "lighting": "strobing lightning; flaring contrast"
+    },
+    {
+      "id": 5,
+      "title": "The Clash of Titans",
+      "description": "Lightning erupts from claws and eyes; shockwaves tear through the void. Camera spins 360° as both collide mid-air in blinding fury.",
+      "motion": "Matrix-style bullet-time rotation; plasma ripples in slow motion",
+      "sfx": "thunder-layered explosion; metallic crack"
+    },
+    {
+      "id": 6,
+      "title": "Silence After Fire",
+      "description": "A pure white explosion consumes everything — light particles fade until only black remains. No sound. No subtitles. Just the echo of silence.",
+      "lighting": "blinding white fade → total black",
+      "sound": "immediate cutoff to silence"
+    }
+  ]
+}

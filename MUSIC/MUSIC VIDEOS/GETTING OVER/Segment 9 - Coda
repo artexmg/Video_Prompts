@@ -1,0 +1,140 @@
+SEGMENT 9 — “CODA / AFTERIMAGE”
+Function: unresolved peace, no reunion
+
+[VOICE/NARRATION]: Off
+[FORMAT]
+duration: 25 seconds
+resolution: 8K-UHD minimum
+segment_sec: 2.0
+fps: 24 - 48
+mode: montage
+tempo_factor: 1.8-2.2
+
+[STYLE]
+Surreal / hyper-real live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; 
+grounded physics
+
+[NEGATIVE PROMPT]
+ZERO stylization
+NO cartoon-look
+NO anime-look
+No painterly texture
+No cel-shade
+No comic-book ink
+No glossy game CG
+No infographic overlays
+No time-remap
+No slow-mo
+No freeze frame
+No slideshow
+No frameholds > 0.01s
+No captions
+
+GLOBAL VISUAL LOCK
+
+Style lock:
+Black-and-white cinematic live-action, high contrast, soft film grain, faint haze, 35mm texture, intimate arthouse realism, emotionally heavy, minimalist apartment interiors, night windows, mirrors, reflections, doorways, shadows, slow grounded camera movement, realistic human motion, no stylization, no fashion editorial look, no glamour, no exaggerated ghost VFX, no text on screen, no color.
+
+Character lock:
+A woman in her late 20s or early 30s, wavy dark hair, emotionally exhausted but restrained, usually wearing dark sweater, plain blouse, jeans, coat, or simple home clothes.
+A man appears as memory, reflection, silhouette, or partial physical presence, but never as a horror figure.
+
+Motif lock:
+White men’s shirt, half-open drawer, mirror, bed, sink, hallway, window, smoke-like breath, hands almost touching, separation inside the same space.
+
+
+Anchor image fills frame already in movement;
+start anchor-reference image at .00-.01s, Anchor image fills frame already in movement; 
+cut to dark at 24.8 s; end clean.
+
+ANCHOR IMAGE OVERRIDE (CRITICAL)
+The provided anchor image is the FIRST FRAME at 0.0s
+The anchor image is ALREADY IN MOTION
+It is NOT a still, reveal, or establishing shot
+Action, camera movement, and audio begin at frame one
+
+[PROMPT]
+A black-and-white cinematic 25-second coda built around stillness after emotional exhaustion. The woman stands alone near a window before dawn or in very late-night light, fully clothed, quiet, no shirt in her hands, no man in the reflection. The apartment is simple, shadowed, and calm. A faint breeze moves the curtain. She looks outward, then slightly downward, breathing, present in herself for the first time. The camera makes a very slow, nearly imperceptible push inward. The emotional tone is not closure or happiness; it is the first moment where longing stops being the center of the room. High contrast, soft film grain, minimalist, restrained, haunted but cleaner, no text, no glamour, no overt symbolism.
+
+[AUDIO]: On
+[VOICE/NARRATION]: Off
+[Audio & Rhythm]
+FX is loud, SFX is EPIC, and is synchronized to visual motion and transitions. Hyper-real sound design. realistic sounds.
+No voice over, only background music.
+
+[BACKGROUND MUSIC]
+⏱ FORMAT (HARD CONSTRAINTS)
+
+Duration: 25 seconds
+Tempo: ~62–68 BPM (slow, breathing pace)
+Time Feel: Loose, rubato-friendly
+Dynamic Range: Extremely narrow
+Loudness: Intimate, almost whisper-level
+🎹 INSTRUMENTATION (WEIGHTED)
+Primary (Non-Negotiable):
+Felt or upright piano (soft hammers, uneven attack)
+Solo female vocal, close-mic, dry
+Secondary (Barely There):
+Low room reverb tail (mono or near-mono)
+Occasional pedal noise / key thump
+Subtle air hiss (tape or room)
+
+Forbidden:
+❌ Percussion
+❌ Strings
+❌ Pads
+❌ Harmony stacks
+❌ Any rhythmic insistence
+
+🎤 VOCAL CONSTRAINTS (CRITICAL)
+One voice only
+Imperfect pitch allowed (even encouraged)
+Breath sounds audible
+Slight vocal fatigue or fragility
+Delivery feels like confession, not performance
+Vocal should sound like it was recorded at 2am, alone, after deciding not to argue anymore.
+
+🧠 EMOTIONAL ARC (MICRO-STRUCTURE)
+
+0.0–8.0s
+Sparse piano notes, space between phrases
+Voice enters hesitantly, almost unfinished thoughts
+
+8.0–16.0s
+A single emotional realization
+No rise in volume — tension comes from stillness
+
+16.0–23.0s
+Voice slightly cracks or thins
+Piano simplifies further, maybe just one note repeating
+
+23.0–25.0s
+Sound decays naturally
+No resolution, no cadence
+Just acceptance
+
+🎚 PRODUCTION RULES (LOCKED)
+No compression pumping
+No stereo widening tricks
+No cinematic polish
+Keep it human, flawed, vulnerable
+Silence is as important as sound
+
+🧩 THEMATIC SUBTEXT (IMPLICIT)
+Being “good” didn’t save anything
+Love wasn’t loud — it just faded
+Strength expressed through restraint
+Dignity in letting go
+
+🛑 ABSOLUTE BANS
+
+❌ No crescendo
+❌ No big ending
+❌ No lyrical clarity spoon-feeding
+❌ No dramatic scoring
+
+🧠 FINAL GUIDANCE (META)
+This piece should feel like:
+You overheard something you weren’t meant to hear — and it changed you.

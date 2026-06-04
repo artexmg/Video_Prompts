@@ -1,0 +1,174 @@
+🌮🦖 SORA VIDEO PROMPT — STREET FOOD FINAL BOSS
+FORMAT (HARD LOCKS)
+
+Duration: 25 seconds
+
+Aspect Ratio: 9:16 (vertical)
+FPS: 48
+Genre: Fighting-Game Boss Intro → Urban Rampage
+Max shot length: 1.2s
+Avg shot length: 0.6–0.9s
+
+ABSOLUTE RULE ZERO
+NO IDLE STATES
+NO STANDING ROARS
+NO STATIC POSES
+NO ESTABLISHING SHOTS
+
+Anchor image visible at 0.00s, already moving
+If the T-rex appears stationary for more than 0.2s, force immediate forward movement or cut.
+
+🦖 PRIMARY SUBJECT — T-REX (NON-NEGOTIABLE)
+Always in continuous locomotion
+Walking, charging, pivoting, stomping, jumping forward
+Center of mass always shifting forward
+Roars may occur only while moving
+No upright intimidation pose
+No head-tilt-back roar animation
+
+🎥 CAMERA LAW (NON-NEGOTIABLE)
+Camera motion is mechanically linked to T-rex gait
+Each footstep causes:
+lateral sway
+vertical shock
+rolling parallax in debris
+Camera may never stabilize while T-rex is visible
+Constant motion: tracking, whip-pans, push-ins, orbiting
+Fighting-game intro cadence:
+low-angle intimidation
+snap zooms on impact
+aggressive focus snaps
+
+🌆 ENVIRONMENT RULES
+Dense urban street food district
+Taco stands, food carts, fryers, signage, delivery trucks
+Every T-rex step causes environmental consequence:
+asphalt fractures
+carts flip
+oil splashes
+steam vents burst
+signage collapses
+If the environment does not react, the shot is invalid.
+
+🧠 VISUAL LANGUAGE
+Fighting-game HUD overlays (screen-space, not world-space)
+
+Health bar (top):
+FLAVOR ██████████
+
+Power-up icons:
+🟢 GUAC
+🔴 SALSA
+🟡 LIME
+
+HUD elements flicker on impacts only. No static UI.
+
+🎬 STORYBOARD EXECUTION (LOCKED)
+ACT I — IMMEDIATE THREAT (0.0–6.0s)
+0.0–0.7s
+Low-angle tracking shot.
+T-rex already mid-stride.
+Rear foot slams through asphalt. Taco stand roof collapses.
+
+0.7–1.4s
+Side whip-pan.
+T-rex changes direction while walking.
+Tail wipes a streetlight flat.
+
+1.4–2.1s
+Front push-in.
+T-rex leans forward into a charge, roaring while advancing.
+Loose debris vibrates and falls.
+
+2.1–2.8s
+Ground-level shot between legs.
+Feet thunder past camera. Hot oil erupts from a fryer.
+
+2.8–3.6s
+Over-shoulder follow.
+T-rex plows through food carts without slowing.
+
+3.6–6.0s
+HUD flicker on impact.
+Camera shake synced to footfalls.
+No pause.
+
+ACT II — CHAOS & CONTROL (6.0–15.0s)
+6.0–6.8s
+Top-down diagonal glide.
+T-rex redirects mid-walk, hunting something offscreen.
+
+6.8–7.6s
+Close-up — torso + legs.
+Muscle torque visible during continuous pivot.
+
+7.6–8.4s
+Street-level lateral track.
+T-rex shoulder-checks a building. Bricks explode outward.
+
+8.4–9.2s
+Rear tracking shot.
+Tail counter-swing crushes a delivery truck.
+
+9.2–10.0s
+POV smash-through.
+Camera bursts out of taco shop window as T-rex passes.
+
+10.0–11.2s
+Medium-wide.
+T-rex accelerates, stride length increases.
+Ground ripples under each step.
+
+11.2–12.4s
+Roar during forward lunge.
+Hanging signs snap loose.
+
+12.4–15.0s
+Rapid micro-cuts:
+
+foot crushing car hood
+
+head snapping sideways mid-run
+
+crowd scattering, camera barely keeps up
+
+ACT III — FINAL BOSS MOMENT (15.0–23.5s)
+15.0–16.5s
+Longest shot (~1.0s).
+T-rex breaks into full charge, camera retreating.
+
+16.5–18.0s
+Side dolly.
+T-rex jumps a barrier, forward momentum maintained.
+
+18.0–19.0s
+Impact landing.
+Shockwave fractures pavement, dust blasts outward.
+
+19.0–20.5s
+Hero tracking shot.
+T-rex slows slightly but keeps walking forward, smoke around legs.
+
+20.5–22.5s
+HUD returns. Health bar full.
+Power-ups flicker.
+Camera orbits while T-rex advances.
+
+22.5–24.5s
+Final push.
+T-rex walks directly toward camera, head low, unstoppable.
+
+🧨 END CARD (24.5–25.0s)
+Big bold text slams in with screen shake:
+INSERT COIN 🌮
+Beat cuts immediately after.
+Behind text:
+T-rex takes one more forward step.
+
+CUT. NO FADE.
+
+🚫 FINAL ENFORCEMENT
+No static intimidation poses
+No stationary roars
+No “arrival” shots
+Motion begins at frame 0 and never stops

@@ -1,0 +1,358 @@
+[VOICE/NARRATION]: Off
+[FORMAT]
+duration: 25 seconds
+resolution: 8K-UHD minimum
+segment_sec: 2.0
+fps: 24 - 48
+mode: montage
+tempo_factor: 1.8-2.2
+
+[STYLE]
+Surreal / hyper-real live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; 
+grounded physics
+
+[NEGATIVE PROMPT]
+ZERO stylization
+NO cartoon-look
+NO anime-look
+No painterly texture
+No cel-shade
+No comic-book ink
+No glossy game CG
+No infographic overlays
+No time-remap
+No slow-mo
+No freeze frame
+No slideshow
+No frameholds > 0.01s
+No captions
+
+
+
+[SEGMENTS]
+9 segments with 2 scenes each of live-action video based from the reference uploaded image; 
+
+[MAIN IDEA]
+Anchor image fills frame already in movement;
+start anchor-reference image at .00-.01s, Anchor image fills frame already in movement; following segments MUST be < 2.0 s each; 
+cut to dark at 24.8 s; end clean.
+
+ANCHOR IMAGE OVERRIDE (CRITICAL)
+The provided anchor image is the FIRST FRAME at 0.0s
+The anchor image is ALREADY IN MOTION
+It is NOT a still, reveal, or establishing shot
+Action, camera movement, and audio begin at frame one
+
+[AUDIO]: On
+
+[VOICE/NARRATION]: Off
+[Audio & Rhythm]
+FX is loud, SFX is epic, like if there is a storm in the background. 
+
+No voice over, but Background music
+
+[BACKGROUND MUSIC]
+
+Intent: intimate cosmic longing → suspended closeness → emotional lift → soft implosion → drifting afterglow
+Core Emotion: loving someone at a distance that feels both celestial and physically close
+Target Use: 125-second cinematic background cue with vocals/alt-lyrics, dream-pop / alt-pop / nocturnal space-ballad energy
+Do not imitate exact melody, lyrics, phrasing, or arrangement.
+Preserve only the emotional architecture: tender ache, romantic orbit, weightless intimacy, quiet yearning, moonlit pull.
+
+GLOBAL MUSICAL DNA
+Duration: 125 seconds
+Genre Blend: dream-pop / alt-pop / nocturnal electronic ballad / intimate cosmic pop
+Tempo: 92–98 BPM
+Meter: 4/4
+Key Feel: minor with luminous modal lift; melancholic but not hopeless
+Energy Arc: 2/10 → 4/10 → 7/10 → 5/10 → 2/10
+Mood Words: lunar, intimate, breath-held, magnetic, velvet, orbiting, bittersweet, suspended
+Emotional Trajectory: fragile confession → gravitational attraction → dreamy bloom → aching release → lonely drift
+
+SONIC PALETTE
+
+Foundation
+
+soft sub bass, rounded and warm, never aggressive
+muted analog kick with gentle chest pulse
+tight but understated snare/clap hybrid
+sparse electronic percussion with tiny metallic shimmer
+sidechained atmosphere, subtle not EDM-obvious
+
+Harmony
+
+felted piano or soft electric piano
+airy analog pads
+distant reversed synth swells
+occasional bell-like celestial plucks
+very light guitar harmonics or clean ebow-style textures
+
+Melodic identity
+
+vocal-led topline with breathy intimacy
+short moonlike synth motif, simple and repeatable
+upward-reaching phrase shapes that feel like floating, not belting
+melodic restraint in the verses, widening intervals in the lift sections
+
+Atmosphere
+
+starfield reverb tails
+whisper layers tucked behind lead
+granular sparkle textures like ice dust / moon dust
+stereo bloom that widens gradually through the middle third
+soft tape haze, slight analog blur, no harsh brightness
+
+Drums
+
+delicate pulse at first, almost heartbeat-minimal
+later: deeper kick, brushed hats, wider clap, feathered tom swells
+no trap fireworks, no huge EDM drop, no festival energy
+all rhythm should feel like breath and orbit, not dance-floor command
+
+Vocals
+
+close-mic female lead, intimate and fragile
+soft consonants, breath present
+stacked harmonies in key emotional phrases
+airy doubles in the chorus-equivalent sections
+optional falsetto ghost line in the final minute
+emotional intensity rises through layering, not shouting
+PRODUCTION RULES
+keep everything emotionally close and human
+no glossy hyper-pop sheen
+no giant commercial EDM drop
+no acoustic folk strumming front-and-center
+no aggressive distortion
+no theatrical belt-heavy pop
+no rap cadence
+the cue must feel like floating under emotional gravity
+dynamics should widen gradually, with one main bloom around the middle-late section
+leave room for visuals; this is background music, not a vocal showpiece
+STRUCTURE MAP — 125s
+0.00–0.18 — First light / distant pull
+
+Sparse opening.
+Soft piano or e-piano motif with faint pad underneath.
+Lead vocal enters almost immediately, close and exposed.
+Very little percussion.
+Mood: someone whispering a truth under a moonlit sky.
+
+0.18–0.40 — Orbit begins
+
+Introduce gentle pulse kick and tiny hat texture.
+A soft synth motif answers the vocal.
+Harmony expands slightly.
+Still restrained, but now there is momentum.
+The listener should feel emotional movement without a “beat drop.”
+
+0.40–1.02 — Intimate ascent
+
+Add fuller sub bass and wider pad bed.
+Vocal melody rises more openly.
+Whisper doubles start appearing at phrase ends.
+The chord motion should suggest longing and forward pull, like two bodies drawn closer by gravity.
+
+1.02–1.25 — First bloom
+
+Open stereo width.
+Introduce light clap/snare and celestial plucks.
+Hook-like melodic phrase arrives.
+This is not a chorus explosion; it is a glowing expansion.
+Emotion: “I’m closer now, but not close enough.”
+
+1.25–1.47 — Suspension pocket
+
+Pull back drums slightly.
+Keep bass and pads.
+Let the vocal hang in space with more reverb tail.
+A brief breath before the deeper emotional section.
+Optional reversed vocal textures.
+
+1.47–2.12 — Main emotional lift
+
+Bring in the fullest version of the groove.
+Sub bass deepens, percussion gets more confident, harmonies stack wider.
+Lead vocal becomes more urgent, but still soft-edged.
+This is the peak of gravitational longing.
+The instrumental should feel like drifting upward through dark blue light.
+
+2.12–2.32 — Ache and release
+
+Begin thinning some high percussion.
+Hold harmonic richness.
+Add one memorable melodic counterline or synth answer phrase.
+Emotion turns from “reaching” to “realizing.”
+
+2.32–2.50 — Quiet collapse
+
+Drop back to piano/pad/sub and very minimal pulse.
+Lead vocal nearly alone again.
+A sense of emotional honesty after the bloom.
+No dramatic breakbeat or glitch gimmick.
+
+2.50–3.18 — Final lunar reprise
+
+Reintroduce selected hook elements, but softer and sadder.
+Harmony should feel familiar now, but more resigned.
+Use falsetto ghost layer or humming texture.
+The cue should feel like the same moon, seen from farther away.
+
+3.18–3.45 — Drifting end
+
+Percussion fades to almost nothing.
+Pads stay suspended.
+Piano motif returns in simplified form.
+A final vocal phrase lands gently, unresolved but beautiful.
+
+3.45–4.05 — Afterglow / empty sky
+
+Mostly instrumental.
+Long reverb tails, soft air, distant harmonic shimmer.
+Let the track dissolve instead of ending abruptly.
+
+4.05–4.10 — Final breath
+
+One last piano note or moonlike synth chime.
+Fade into silence.
+
+HARMONIC BEHAVIOR
+
+Use chord language that feels:
+
+minor-rooted but emotionally luminous
+intimate, not tragic
+suspended with added 2nds / 9ths / 6ths
+capable of turning one chord into emotional gravity by repetition
+
+Suggested feel:
+
+i → VI → III → VII variants
+or i → iv → VI → V-like lift
+avoid overly jazzy sophistication
+avoid obvious four-chord anthem writing
+the harmony should feel like orbit, not march
+MELODIC RULES
+verses: narrow range, conversational, breath-led
+lifts: slightly higher register, wider intervals, more legato
+hook phrase should feel upward-reaching, moonward
+avoid melisma-heavy pop singing
+avoid too many words per bar
+allow silence between phrases
+every melodic shape should feel like reaching across distance
+VOCAL TEXTURE DIRECTIONS
+
+Lead vocal qualities:
+
+fragile but steady
+intimate, nocturnal
+dreamy without becoming sleepy
+emotional truth over perfection
+
+Backing vocals:
+
+soft doubles in thirds or octaves
+whisper layers on key words
+occasional “ooh” / “ah” bed in bloom sections
+no giant choir stacks
+LYRIC DNA
+
+Keep the lyrical world centered on:
+
+space as emotional distance
+the moon as intimacy, witness, or destination
+being tied together across distance
+wanting closeness without melodrama
+wonder mixed with ache
+softness, not fatalism
+
+Avoid:
+
+cliché sci-fi terminology
+cheesy astrology language
+explicit heartbreak clichés
+over-explaining the relationship
+ALTERNATIVE LYRICS
+
+Original-inspired in feeling, but newly written.
+
+Version A — more intimate / tender
+
+Verse 1
+Once in a while, I drift your way
+Quiet as light on a window late
+You look like a thought I almost knew
+Silver and still, pulled close to you
+
+Pre-lift
+No sound, just the air between
+No ground, just a softer gravity
+
+Lift
+Take me closer to the moon tonight
+Where your shadow folds into mine
+We don’t have to speak to move
+I can feel you in the blue
+Take me where the dark turns white
+Where we bend but never break the sky
+If I fall, let it be to you
+Closer, closer to the moon
+
+Verse 2
+Threads in the dark, pulled tight through space
+Your name goes warm in the coldest place
+Nothing is lost, it only moves
+Far enough out to come back new
+
+Final refrain
+Closer than silence
+Farther than truth
+Still I keep turning
+Closer to you
+
+Version B — more dreamy / cinematic
+
+Verse 1
+I saw your light before your face
+A little fire in a frozen place
+The night went thin around your skin
+Like the stars were letting me in
+
+Pre-lift
+Weightless, but I feel the pull
+Helpless, and it feels so full
+
+Lift
+Bring me nearer to the moonlight edge
+Where your pulse and the heavens blend
+Let me hover in your view
+Half a dream and half pulled through
+Hold me in that pale-blue tide
+Where the world falls out of either side
+If there’s nowhere left to run
+Let me rise with you, undone
+
+Bridge-ish line
+We were never lost
+Only far enough to glow
+
+Version C — more restrained / art-pop
+
+Verse 1
+Your orbit found me in the dark
+Soft collision, quiet spark
+No one saw the sky divide
+No one heard the change in tide
+
+Lift
+Closer to the moon
+Closer to your light
+Closer to the bruise-blue hush
+That holds the night
+
+Outro lines
+Stay where the silver moves
+Stay where the air turns blue
+I don’t need the world below
+Only this pull to you

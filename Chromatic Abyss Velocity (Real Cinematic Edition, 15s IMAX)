@@ -1,0 +1,169 @@
+
+
+F1: Chromatic Abyss Velocity (Real Cinematic Edition, 15s IMAX)
+
+## Subject / Scene Settings
+{{
+Audience: {locale:"EN"}
+Narrative tone: intense, grounded, physical, high-pressure realism
+Inference: {{
+  theme:"deep-sea motorsport realism",
+  genre:"hyper-real action / IMAX deep-ocean documentary",
+  style_ref:"BBC Deep Ocean × IMAX × F1 engineering × practical VFX",
+  final_title_style:"subtle chromatic metallic"
+}}
+
+Subject type: real underwater F1 prototype with:
+- brushed metal, wet carbon fiber, titanium bolts  
+- functional hydrodynamic wheel pods  
+- thin LED accent strips (no glowing exteriors)
+
+Key realism constraints:
+- Car **must touch the seafloor** where appropriate  
+- Wheels **rotate with resistance**, kicking up silt  
+- Tires **compress sediment**  
+- High-speed motion = **pressure waves, vortex shedding, sand bursts**  
+- Jellyfish tentacles **bend, curl, drift** (never stiff)  
+- **No toy surfaces, no floating objects, no cartoon glow**
+
+Environment: real underwater canyon with:
+- hard rock texture, sediment floor, micro-algae haze  
+- corals flexing from hydrodynamic pressure  
+- muted but rich accents (blue, gold, red, green, magenta)  
+}}
+
+---
+
+## Style
+{{
+Lighting: deep-sea realism (blue/cyan), warm coral accents, occasional refracted magenta/green.
+Color/Grade:
+- IMAX natural deep-ocean palette  
+- rich but **not neon**  
+- metallic speculars, micro-roughness, naturalistic bloom  
+
+Visual Taste:
+- realistic sediment physics (billowing, layering, occlusion)  
+- contact shadows + wheel deformation  
+- turbulent hydrodynamic wakes  
+- soft-body jellyfish physics  
+}}
+
+---
+
+## Camera & Editing
+{{
+Shot logic: real underwater cinematography  
+- heavy camera inertia  
+- slight pressure shake  
+- no drifting “perfect stabilizer” shots
+
+Lenses: IMAX 14mm → 35mm → 50mm macro  
+Natural DOF (no anime DOF)
+
+Movement:
+- weighty slow pushes  
+- frantic high-speed tracking with drag  
+- practical angles only  
+
+Editing:
+- rapid cuts (1.5–2s each)  
+- transitions via silt wipes, refracted flashes, occlusion  
+}}
+
+---
+
+## Audio (BGM & SFX)
+{{
+BGM: low, cinematic, submerged tension (no electronic/techno)
+SFX:
+- turbine rumble (water-muffled)
+- wheels grinding sediment
+- coral rustle
+- pressure booms
+- vortex crackle
+}}
+---
+
+# CUT STRUCTURE (15 SECONDS TOTAL)
+
+## ✔ Cut 1 — Descent Gate (0–2s)
+- IMAX wide, downward tilt  
+- Car descends with real buoyancy, slight roll  
+- LEDs faint  
+- Impact on seafloor sends **silt blooming upward**  
+- Micro particulate drift across lens
+
+---
+
+## ✔ Cut 2 — Ignition (Metallic Close-Up) (2–3s)
+ECU macro of real carbon fiber,  scuffs.
+Turbine intake hums; micro-bubbles swirl
+Shadows + speculars reveal real material
+No cartoon glow effects at all
+
+---
+
+## ✔ Cut 3 — Launch: Wheel Spin + Silt Explosion (3–5s)
+- Side low-angle tracking  
+- Tires dig into sediment, **spinning hard**  
+- Silt bursts upward in dense plume  
+- Hydrodynamic wake forms behind pods  
+- Car accelerates with real inertia
+
+---
+
+## ✔ Cut 4 — Canyon Run (5–7s)
+- Chase cam struggling to stabilize  
+- Car blasts through coral corridor  
+- Coral branches **bend, twist, sway** from pressure  
+- Biofluorescence = muted, natural  
+- No neon, no fantasy glow
+
+---
+
+## ✔ Cut 5 — Subduction Tunnel Burst (7–10s)
+- Forward-facing chase cam, very low  
+- Car enters a tight subduction tunnel  
+- Gravel + shale fall from ceiling  
+- Hydrodynamic wake sucks sediment into **spiraling ribbons**  
+- Algae in cracks fluoresce faint green-gold  
+- High-speed claustrophobic rush
+
+---
+
+## ✔ Cut 6 — Jelly Curtain (10–12s)
+- IMAX frontal dolly  
+- Jellyfish pulse and drift  
+- Tentacles **bend, curl, fold** with pressure wave  
+- Car pushes through with realistic slow-burst displacement  
+- No straight tentacles, no stiffness
+
+---
+
+## ✔ Cut 7A — Seamount Edge Approach (12–13.5s)
+- Long-lens chase shot  
+- Car exits tunnel into vast open blue  
+- Approaches steep seamount ridge  
+- Coral + kelp **whip sideways**  
+- Sediment spirals behind the car  
+- Camera jolts from drag turbulence
+
+---
+
+## ✔ Cut 7B — Seamount Leap + Chromatic Implosion Finale (13.5–15s)
+- Ultra-wide IMAX hero shot  
+- Car rockets off ridge edge  
+- A **low-pressure cavitation bubble** forms around it (clear, refracted)  
+- Car exits frame; bubble **implodes violently**  
+- Shockwave pushes camera backward  
+- Chromatic arcs from natural refraction (not neon)  
+- Silt + particulate blast outward  
+- Coral fronds bend from pressure blast
+
+---
+
+# Prompt Summary
+Hyper-real 15s IMAX underwater video of a real F1 prototype driving along the seafloor, canyon walls, and through tight subduction tunnels.  
+Emphasis on **real physics**, **real materials**, **contact with ground**, **true hydrodynamics**, **soft-body jellyfish**, and a **spectacular cavitation implosion finale**.  
+No cartoon shading, no floating cars, no neon fantasy — pure physical ocean cinematography with grounded engineering realism.

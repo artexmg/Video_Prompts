@@ -1,0 +1,182 @@
+Title: ECHOES THROUGH GLASS — Paranoid Cut
+(15 s, 8K UHD, 30 fps — Psychological Horror / Surreal Realism)
+
+STYLE:
+Narrative Arc: paranoia → distortion → rebellion → rupture → silence
+Visual Mood: cold silver-blue monochrome; low-key lighting; shallow depth; breathing light, not breathing geometry; reflections feel heavy and reluctant; glass under tension
+Setting: bedroom lined with tall, rigid glass mirrors; their surfaces behave like strained solid glass under invisible pressure—distortion appears locally at edges, corners, and points of contact, not as soft global wobble; air remains perfectly dry
+Protagonist: @artexmg.evelyn who is dressing in light nightgown; mid 20s; long dark hair; expressive eyes
+Antagonist: her distorted reflection that gradually gains autonomy and malevolence; the reflection behaves as if imprisoned behind hard glass, always pushing against it rather than flowing freely
+
+GLOBAL VISUAL / CAMERA / LIGHTING
+
+Render engine: path-traced PBR with caustics and volumetrics
+Camera lenses: 35 mm anamorphic (primary), 50 mm macro (close), handheld dolly and orbit shots
+Motion blur: 180 degrees shutter / 1⁄48 s exposure
+Lens effects: subtle barrel distortion (0.5 %), chromatic fringing (±0.5 %), optical breathing 1 %
+Film look: 35 mm LUT, ISO 320, fine grain; halation on speculars
+
+Lighting design: flicker sine 0.5 Hz + strobe bursts 2 Hz + occasional blackout frames
+Color palette: black / gunmetal / pale cyan highlights
+Environment haze: volumetric density 0.25; absorption 0.6
+
+Mirror behavior:
+Mirrors are optically sharp, rigid glass with hard edges and crisp specular highlights.
+No soft, rubbery, or jelly-like deformation.
+Distortion is localized, asymmetric, and appears only near: frame edges, corners, and where her body, breath, or hands approach.
+Motion in the glass is reluctant and delayed, as if the material resists before yielding.
+Mirror shader:
+Base refractive index 1.52 (realistic glass); during “pull” transition, stress-fracture shears and edge warping occur while refractive index shifts 1.55 → 1.33 along crack lines only.
+Brief micro-cracks and stress lines flash for 1–2 frames before any major deformation, then heal.
+
+Distortion hierarchy (very important):
+At any moment, prioritize ONE hero effect only:
+Either refraction warping OR temporal echo OR chromatic aberration—never all at full strength simultaneously.
+
+Scene Flow (≈2 s each)
+[SCENE 1] – Pulse Ignition (0–2 s)
+Action:
+Extreme macro on her eye; catchlight shows tiny, localized distortions in the mirror edges, pulsing with her heartbeat.
+The main mirror plane stays rigid; only thin vertical bands near the frame jitter slightly.
+Physics:
+Air refractive shimmer IOR ≈ 1.005 around her face only.
+Micro-shears confined to mirror edges and highlight streaks, synced to heartbeat amplitude; no full-surface ripples.
+Lighting:
+Top flicker 1.8 Hz; bloom only on whites; speculars on glass remain sharp, needle-like.
+Audio:
+Deep sub-bass heartbeat (90 → 100 bpm), reverb tail whisper “wake up” −36 dB.
+Mood:
+
+Awareness before panic; the glass feels tense and watchful, not fluid.
+
+[SCENE 2] – Room Awakens (2–4 s)
+Action:
+She rises slowly.
+Before she moves fully, narrow bands of the reflections at the mirror edges begin to shift and shear, as if the glass is under stress.
+Distortion spreads in broken vertical streaks, not smooth waves.
+Physics:
+Droplet simulation (g = −9.8 m/s²) for condensation on the surface only; droplets cling to rigid glass.
+Surface “movement” is subtle shear and bending at corners, not global wobble; effective damping ζ = 0.08 (heavy, sluggish response).
+Camera:
+35 mm handheld pan; rolling-shutter jitter 12 %, emphasizing tension in the hard lines of the mirrors.
+Lighting:
+Cool morning hue; soft volumetric rays grazing mirror edges and revealing slight refractive bending.
+Audio:
+Reversed whisper “you’re late”; faint low-freq drone 35 Hz; occasional high, brittle glass creaks panned to the edges.
+
+[SCENE 3] – Echo Lag (4–6 s)
+Action:
+She turns her head; her reflection moves a fraction of a second late, pressing against the inside of the glass like it’s pushing through a barrier.
+Reflection multiplies, but each copy is slightly misaligned and constrained by the mirror frame, as if trapped in panes.
+FX:
+Temporal ghost frames offset 0.08 s; transparency layering × 4.
+Reflections remain sharply contoured, with only subtle edge warping—no rubbery warble across the whole surface.
+Physics:
+“Mirror fluid tension coefficient 0.4” interpreted as internal stress, not softness: micro-cracks and stress lines flicker briefly where the reflection presses.
+Apparent viscosity 0.9 Pa·s only along thin seam lines and stress zones, leaving most of the surface rigid.
+Audio:
+Heartbeat 110 → 120 bpm; metallic ticking panned L→R; reversed glass chime 0.2 s.
+Lighting:
+Intermittent blue-white flashes tied to tick rate; flashes catch sharp, knife-like glints along micro-crack lines.
+
+[SCENE 4] – Mirrors Breathe (6–8 s)
+Action:
+The room “breathes” not by ballooning, but via subtle bowing of the mirror panels between wall studs—millimeter-scale.
+Reflections shear and split vertically along hidden stress lines; the geometry stays hard and planar, never soft.
+Condensation climbs upward along the glass as if gravity is reversed, beads stretching but still hugging a solid surface.
+Physics:
+Soft-body bulge amplitude limited to 0.01–0.02 m, anchored to frame edges; deformation feels like bent glass panels, not rubber walls.
+Humidity 90 %.
+FX:
+Fog particle count 50 k; mist turbulence amplitude 0.2; mist flows across the rigid planes, not through them.
+Audio:
+Wet inhale/exhale with amplitude envelope mapped to bowing cycles of the panels; low-band boost +6 dB at 200 Hz; distant crackle of stressed glass.
+Lighting:
+Alternating cyan glow / total blackouts every 0.5 s; during glow, hairline fractures briefly visible then fade.
+
+[SCENE 5] – Faces in Glass (8–10 s)
+Action:
+Multiple desynced reflections encircle her in different mirrors.
+Each reflection appears in a separate rigid pane; no mirror behaves like a fluid sheet.
+Reflections sometimes “stick” for a frame when she moves, then snap into place, as if constrained by stiff surfaces.
+Camera:
+Rapid montage, 5 frames per cut, jump-cuts at 12 Hz; framing emphasizes hard rectangular mirror edges.
+FX:
+Reflection duplication × 4.
+Chromatic aberration 0.8 % only at mirror edges and around high-contrast facial features, not across entire frame.
+Frame echo 0.1 s on faces, but mirror geometry stays clean and planar.
+Audio:
+Multi-layer whisper chorus, reverb 6 s, spectral widening 20 %; heartbeat 130 bpm.
+Lighting:
+Cold under-chin highlights, flicker tied to voice amplitude; reflections hold crisp, knife-like catchlights, reinforcing a glassy feel.
+Mood:
+Visual/auditory overload; onset of paranoia; the glass feels like a cage, not a liquid medium.
+
+[SCENE 6] – Scream Through Water (10–12 s)
+Action:
+Her reflection screams silently first, pressing its face hard against the inside of the mirror, flattening slightly but maintaining sharp features.
+The sound arrives delayed. The mirror doesn’t wobble; instead, fine radial stress patterns bloom around where her reflected mouth hits the glass.
+Physics:
+Suspended droplet system (particle radius 1 mm; gravity override −2 m/s²) on the mirror surface and in the air in front of it.
+Underwater-style warp refraction appears only inside the reflection’s face and around contact area, not the entire panel.
+Ripple frequency 6 Hz strictly localized to a circular zone around the impact.
+Audio:
+Distorted scream filtered < 1 kHz; heartbeat 140 bpm; wet reverb 70 % wet / 7 s decay.
+Lighting:
+Strobing white flashes per beat; specular flicker from mirror surface; flashes emphasize hard, jagged reflection contours, not soft smears.
+Mood:
+Temporal distortion; panic apex.
+
+[SCENE 7] – The Pull (12–14 s)
+Action:
+The reflection’s arm cracks through the mirror: first, spiderweb fractures radiate from where the hand pushes; then shards dislodge.
+As shards break away, their edges briefly liquefy, forming narrow streams that wrap around her arm, dragging her inside.
+Her body is yanked toward the mirror; contact points show sharp, splintered edges with thin liquid trails, not fully molten surfaces.
+Physics:
+Fluid–solid interaction: cohesion 0.4; viscosity 1.2 Pa·s only along fracture edges and flowing shards.
+Splash 200 k particles, but streams remain tight and directional, as if constrained by the original solid geometry.
+Camera:
+Whip-pan transition to half-submerged POV; parallax rotation 20°/s; we briefly see jagged glass silhouettes above, now resealing.
+FX:
+Refractive displacement map amplitude 0.06 centered around fracture zones; subsurface 0.5 scatter for particle lighting inside the broken plane, not across intact walls.
+Audio:
+Shatter transient 0 dB peak; Doppler heartbeat pitch −2 semitones; sub-impact 60 Hz −3 dB; short burst of white noise 0.5 s.
+Lighting:
+Flash-white at moment of break; then murky cyan diffusion within 0.2 s; glints along the remaining sharp edges fade slowly.
+Mood:
+Violent rupture of reality; glass finally stops resisting and fails.
+
+[SCENE 8] – Submersion Silence (14–15 s)
+Action:
+Underwater void; her hair floats upward; bubbles rise; above, we see a rigid mirror plane resealing like freezing water—surface tension locked, no wobble
+After sealing, the mirror above is perfectly flat and still.
+Physics:
+Bubble density 0.02; velocity 0.12 m/s; volumetric scatter 0.8, absorption coef 0.7.
+Camera:
+Slow dolly back; focus breathing; particles drifting in z-depth; the locked, planar mirror surface above remains geometrically perfect.
+Lighting:
+Dim moon-blue gradient fading to total black; final emphasis on the flat, hard silhouette of the mirror.
+Audio:
+Heartbeat decelerates → flatline; hiss fades > 500 Hz LP; silence @ 15 s.
+
+Mood:
+Tranquil entrapment; after-terror stillness; the world has “reset,” but in a cold, rigid way.
+Audio / FX / Physics Specifications (Global)
+Heartbeat source: layered organic thump + synthetic sub pulse; bpm 90 → 140 → 0
+Whisper bus: 8 s reverb / 70 % wet / stereo width 1.4
+Glass bus: convolution reverb (small room 0.9 s) + transient enhancer + low-pass 250 Hz; occasional high, brittle crack transients at stress events
+Compressor: side-chain to heartbeat, ratio 3:1, threshold −18 dB
+Reverb space: 10 m virtual cube, predelay 0.12 s, diffusion 85 %
+Sub layer: sine 30–60 Hz, amplitude-modulated by heartbeat envelope
+Fluid sim:
+200000 particles, density 1.0 kg/m³, drag 0.01
+Fluid motion is mostly confined to fracture events and the interior submersion, not constant liquid mirrors.
+Mist sim: 0.0005  particles, turbulence 0.25, lifetime 3 s
+Droplet shader: specular 0.8, translucency 0.6, scattering depth 1.5 cm
+Cloth physics (hair / pajama): damping 0.02, drag 0.1, gravity 9.8 m/s², stiffness 15 N/m
+Atmospheric FX: volumetric fog scatter 0.5, anisotropy 0.4
+Color grade: cool curve, gamma 0.85, mid-tone lift +0.05
+Fade-out: master low-pass 500 Hz → silence at 14.8 s
+
+End State:
+Total auditory void; darkness; single frame linger of the mirror surface—perfectly flat, motionless, and rigid, as though nothing ever happened.

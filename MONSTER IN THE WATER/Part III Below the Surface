@@ -1,0 +1,110 @@
+[VOICE]: Off
+[FORMAT]
+resolution: 8K-UHD 48fps
+segment_sec: 2.0
+mode: montage
+tempo_factor: 1.8-2.2
+[STYLE]
+Hyperreal live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; grounded physics
+[NEGATIVE PROMPT]
+NO cartoon or anime look
+No painterly texture
+No cel-shade
+No comic-book ink
+No glossy game CG
+No time-remap
+No frameholds > 0.01s
+[SEGMENTS]
+6 segments with 2 scenes each of live-action video based from the reference image;  Anchor image fills frame already in movement;
+start anchor-reference image at .00-.01s, Anchor image fills frame already in movement; following segments MUST be < 2.0 s each; 
+
+[SEGMENTS — 15s / high tempo]
+Scene 1
+
+CONTINUATION — ACTIVE FIRE ZONE
+
+Camera shakes under recoil; multiple rifles firing; tracer-like rounds hit creature’s torso; impacts create wet bursts of tissue and algae; cables remain taut; water churns violently around base.
+
+Scene 2
+
+IMPACT FOCUS — TARGET ZONE
+
+Camera punches in toward creature’s upper chest/neck; repeated impacts concentrate; flesh begins to fracture; surface layer splits unevenly; something darker beneath shifts.
+
+Scene 3
+
+FIRST BREAK — NOT NORMAL DAMAGE
+
+A section of the creature’s outer layer tears open—
+but instead of blood, dense black fluid + fibrous structures spill out; internal movement is visible; it’s not passive tissue.
+
+Scene 4
+
+REACTION — CREATURE DOESN’T RETREAT
+
+Instead of recoiling, the creature goes still for a fraction; head tilts unnaturally; eyes lock downward toward attackers; tendrils stop whipping → then tense.
+
+Scene 5
+
+GROUND POV — WRONG SIGNAL
+
+Operators keep firing; one gestures “keep pressure”; cables tighten further; anchor points grind deeper; everything says “we’re winning.”
+
+But nothing in the creature collapses.
+
+Scene 6
+
+INTERNAL MOVEMENT — REVEAL ESCALATION
+
+From the torn wound, something moves independently inside; internal strands retract and reorganize; structure shifts like muscle reversing direction.
+
+Scene 7
+
+COUNTERACTION — CONTROL BREAK
+
+All cables snap almost simultaneously; not explosive—overpowered; lines go slack, then whip violently; one cable lashes across water, sending spray in a straight arc.
+
+Scene 8
+
+FULL BODY SHIFT — SCALE REDEFINED
+
+Creature lifts higher than before; more mass emerges from water; base widens; it was never fully exposed; water displacement increases dramatically.
+
+Scene 9
+
+HELICOPTER RETURN — LAST ATTEMPT
+
+Helicopter dives back into frame low and aggressive; weapon system spins up; floodlight hits the wound directly; rotor wash flattens ocean surface in a wide radius.
+
+Scene 10
+
+DIRECT HIT — INTO THE WOUND
+
+Projectile enters the exposed opening—
+no explosion outward—
+instead, a contained implosion-like reaction inside the creature.
+
+Scene 11
+
+SILENCE BREAK — INTERNAL RESPONSE
+
+Everything pauses for a fraction (no freeze, just slowed motion from mass shift); then the creature’s body contracts inward slightly as if pressure redistributes.
+
+Scene 12
+
+FINAL REVEAL — IT’S NOT ONE CREATURE
+
+The torn opening expands—
+inside, multiple layered structures / secondary movement patterns become visible;
+it suggests composite anatomy… or something nested.
+
+Scene 13 (END HOOK)
+
+DIRECT EYE CONTACT — NEW INTENT
+
+Camera locks on creature’s face; eyes now focused, precise;
+head lowers toward the team—not rage… targeting.
+
+Stop before motion begins.

@@ -1,0 +1,134 @@
+
+[VOICE/NARRATION]: Off
+[FORMAT]
+duration: 25 seconds
+resolution: 8K-UHD minimum
+segment_sec: 2.0
+fps: 24 - 48
+mode: montage
+tempo_factor: 1.8-2.2
+
+[MODEL]
+Model: Sora2
+
+[STYLE]
+Surreal / hyper-real live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; 
+grounded physics
+
+[NEGATIVE PROMPT]
+No freeze frame
+No slideshow
+No frameholds > 0.01s
+No captions
+
+[SEGMENTS]
+9 segments with 2 scenes each of live-action video based from the reference uploaded image; 
+start anchor-reference image at .00-.05 s; following segments MUST be < 2.0 s each; 
+
+Make it several short scenes, kinetic, different angles, different cameras and lenses. All the object should Never be static, and they should follow physics rules.  Keep it always whimsical.  No voice over, Only Music and SFX.
+cut to dark at 24.8 s; end clean.
+
+
+[AUDIO]: On
+No voice over, only FX, SFX, and background music.
+
+FX is loud and immersive
+
+SFX is EPIC, and is synchronized to visual motion and transitions. Hyper-real sound design. Engines roaring, growling, whimsical sounds.
+
+[Background Music]
+Intent: Emotional minimalism → exposed vulnerability → quiet devastation
+Core Emotion: Emotional armor cracking from the inside
+
+🎼 GLOBAL MUSICAL DNA (LOCKED)
+Tempo: Slow–mid (≈ 70–80 BPM), breathing tempo
+Meter: 4/4, but phrasing feels elastic and human
+Key Feel: Minor-leaning, unresolved, emotionally suspended
+Dynamics: Soft by default — intensity comes from exposure, not volume
+Mood Axis: Fragile → wounded → resigned
+Energy Rule: ❌ No swelling into catharsis
+→ Tension must hover, never fully release
+
+🎹 INSTRUMENTATION (SPARSE & EXPOSED)
+
+Primary:
+Bare piano or softly fingerpicked electric guitar
+Notes allowed to decay fully — silence is part of the rhythm
+Secondary (optional, ghost-like):
+Low-register bass (felt more than heard)
+Subtle brushed drums or heartbeat kick (very late entry)
+Textural Accents:
+Tape hiss / room noise
+Occasional harmonic overtones or pedal noise
+
+❌ No lush pads
+❌ No strings
+❌ No cinematic crescendos
+
+🎤 VOCAL DIRECTION (CRITICAL)
+
+Delivery:
+Intimate, almost conversational
+Slightly behind the beat
+Breath and vocal cracks preserved
+Mic Feel:
+
+Close-mic, dry, imperfect
+No heavy reverb — only short room reflections
+Emotion Rule:
+Sounds like singing despite wanting to stop
+Vulnerability > pitch perfection
+Backing Vocals:
+Rare or none
+
+If present: distant, doubled, ghostly — never supportive
+
+🧠 STRUCTURAL ARC (EMOTIONAL, NOT POP)
+Opening (0–30%)
+Instrument alone
+Establish emotional isolation
+Listener feels like they walked into a private moment
+Middle (30–70%)
+Very slight build: bass pulse or drum breath enters
+Lyrics feel heavier, more self-aware
+No melodic “hook” — repetition creates weight
+End (70–100%)
+Elements subtly fall away
+Final lines delivered almost flat, emotionally spent
+Ending feels unfinished — like the thought continues after silence
+🎚️ MIX & PRODUCTION CONSTRAINTS
+Dynamic Range: Wide — whispers stay whispers
+Compression: Minimal, transparent
+EQ: Warm mids, rolled-off highs
+
+Imperfections:
+Keep finger noise
+Keep breath
+Keep timing imperfections
+
+❌ No polish
+❌ No modern pop loudness
+
+🧩 CWPP IDENTITY STATEMENT
+
+This track should feel like a confession recorded alone at night,
+about this poem:
+
+"They rose into the sky
+as the city watched.
+
+No one cheered.
+
+Goodbyes were spoken without words.
+
+They were not sent to defeat what was coming,
+only to slow it.
+
+Time was the weapon.
+
+They knew the cost.
+
+And they paid it,
+so others would live."

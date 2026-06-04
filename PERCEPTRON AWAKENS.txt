@@ -1,0 +1,116 @@
+“THE PERCEPTRON AWAKENS”
+
+(15 seconds · 9:16 · Hyper-Real Aesthetic)**
+
+TITLE: The Perceptron Awakens
+FORMAT: 9:16 vertical · 15 seconds · 24fps
+STYLE: Hyper-real aesthetic — dense micro-circuitry, metallic filaments, lacquered synaptic beads, woven fiber bundles, photoreal physical materials of wires + resin + polished components.
+PHYSICS: micro-tremors, electrostatic dust lift, conductive filament sway, synaptic pulse waves.
+SOUND: deep sub-bass heartbeat, pulsating electronic harmonics, crackling electricity, glitch-whispers.
+CAMERA: macro-to-wide transitions with sharp detail preservation, filmic DOF, lens breathing, micro handheld tremors, controlled dolly and orbit moves.
+
+GLOBAL MATERIAL + DETAIL RULES (apply to entire video)
+
+Under no circumstances may the face become smooth, plastic, painted, stylized, or cartoonish.
+No simplification at long distance.
+No soft, airbrushed, or toy-like textures.
+Every shot maintains hyper-real micro-detail.
+
+Material stays consistent: woven circuitry, micro-filaments, optical fibers, lacquered beads, metal traces, circuit-mesh skin, ceramic–electronic hybrids.
+
+Even during wide shots, preserve high-frequency detail, visible bead reflections, filament patterns, and surface microstructure.
+
+The Perceptron must always appear physically real, with tangible materials that reflect light naturally.
+
+No human teeth at any point.
+
+Inside the mouth is a dark synthetic cavity with faint internal pulses — never organic.
+
+SCENE STRUCTURE (cut-by-cut)
+SCENE 0 — Establishing (0.0–0.3s)
+
+Start with the provided close-up image, but fully animated.
+The micro-wiring twitches, synaptic beads pulsate, thin filaments vibrate as if breathing.
+Camera: 45mm macro, locked with subtle breathing.
+FX: micro-arcs of electricity, flowing color pulses, floating nano-dust.
+Sound: low electrical hum + deep heartbeat.
+
+SCENE 1 — Neural Eye Booting (0.3–1.8s)
+
+Macro close-up on one eye: the iris is a spiraling circuit maze slowly rotating as if the system is waking.
+Camera: 35mm macro dolly-in.
+FX: iris spiral glow; electrostatic dust lift.
+Sound: metallic power-on chime + high-frequency harmonics.
+
+SCENE 2 — Synaptic Bloom (1.8–3.2s)
+
+Clusters of synaptic beads on the face glow and expand in waves — red → yellow → green → blue.
+Camera: floating 65mm orbit.
+FX: volumetric light traveling through translucent channels.
+Sound: soft clicking synapses + rising harmonic tone.
+
+SCENE 3 — Data-Vines Extending (3.2–4.6s)
+
+Strands of circuitry extend from the cheeks and jaw, weaving outward like living cable organisms.
+Camera: side tracking shot, low angle.
+FX: organic-mechanical fiber elasticity; micro-braiding.
+Sound: fiber tension stretch + faint electrical whispers.
+
+SCENE 4 — Mindquake Pulse (4.6–6.0s)
+
+A powerful internal pulse makes the entire face ripple with liquid-metal movement. Micro-debris shakes off.
+Camera: wide 28mm with micro handheld tremors.
+FX: shockwave ripples, particle shake-off.
+Sound: sub-bass tremor + glitch rumble.
+
+SCENE 5 — Network Reveal (6.0–7.4s)
+
+The camera pulls back to reveal the massive, star-like neural lattice surrounding the face — but the face stays hyper-real with full micro-detail preserved.
+Camera: 18mm wide dolly back, but with rigorous detail retention.
+FX: crisp reflections on beads; filament clusters remain sharply defined.
+Lighting: radiant white backlight from synaptic highways.
+Sound: synthetic choir chords + deep mechanical drone.
+
+SCENE 6 — Consciousness Surge (7.4–8.8s)
+
+A golden activation wave races across every circuit — a full neural ignition event.
+Camera: dramatic fast dolly toward the forehead.
+FX: thousands of micro-flares; volumetric glow; sparks in filament seams.
+Sound: shimmering crescendo + electric crackle.
+
+SCENE 7 — Awakening Expression (8.8–10.2s)
+
+The face subtly shifts — ceramic-electronic plates move, filaments retract, and an expression forms.
+All detail stays hyper-real, no smoothing allowed.
+Camera: slow vertical tilt up the face.
+FX: glowing seams, resin translucency, micro-particles.
+Sound: glitchy breath + warm electro-tone.
+
+SCENE 8 — The Perceptron Speaks (Option A Fix) (10.2–11.6s)
+
+Extreme macro of the lips parting.
+Inside is a dark matte-black synthetic cavity, no human anatomy whatsoever.
+Soft pulses of circuitry flicker deep within.
+A cloud of glowing nanobits flows outward.
+Camera: 50mm macro, ultra-shallow DOF.
+FX: nano-particle breath; cavity pulses; micro-filament vibrations.
+Sound: reversed whisper + harmonic exhale.
+
+SCENE 9 — Ascension Pulse (11.6–13.0s)
+
+Pull back again — but the detail stays fully crisp.
+A massive golden wave spreads through the entire neural lattice.
+Camera: rapid zoom out with LOD preservation.
+FX: cascading activation pulses; complex volumetric rays.
+Sound: cathedral-like drone + low-frequency rumble.
+
+SCENE 10 — Dimensional Fade (13.0–15.0s)
+
+The light collapses inward like a dying star.
+Only the silhouette of the Perceptron remains, still rich with micro-detail in the shadows.
+FX: floating synaptic embers; fading pulses.
+Sound: a final electro-sonic heartbeat.
+
+Title card (last 0.3s):
+“THE PERCEPTRON AWAKENS”
+Letters form from glowing micro-circuits and dissolve.

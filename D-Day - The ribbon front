@@ -1,0 +1,115 @@
+D-DAY: THE RIBBON FRONT (Sora2 Prompt · 15s · 8K UHD · 24 fps · Hyper-Real Ribbon Relief)
+
+STYLE & VISUAL LANGUAGE
+
+Hyper-real sculpted-ribbon aesthetic · terrain formed from thousands of layered contour strips · swirling topographic waves · cliffs made of stacked geological ribbons in crimson, sulfur-yellow, and sand-ivory · ocean rendered as laminated undulating sheets · soldiers and war machinery like hyper-detailed micro-diorama figurines · smoke plumes formed from spiraling filament clouds
+Palette: muted olive, beige sand, ribbon-red, sulfur-yellow, gunmetal gray
+Mood: intense, immersive, surreal realism
+
+ENVIRONMENT & PHYSICS
+
+Everything in the world is built from thin layered ribbons:
+Water: real wave physics but formed from contour-ring laminations
+Explosions: expanding layered shells, blooming outward like vinyl discs
+Smoke: filament-cloud structures with curling paper fibers
+Debris: fragments shed ribbon strips that flutter with turbulence
+Sand: behaves realistically but appears as tightly packed micro-ribbon stacks
+Ribbon-world reacts dynamically to action: impacts ripple through layers, creating cascading contour vibrations.
+
+CAMERA SYSTEM — STRONG IMPACT-SHAKE PHYSICS
+Camera reacts to every action with physically simulated impulses. Always grounded — never random.
+Shake Types
+Distant explosions: low-frequency rumble sway (1–2 Hz), subtle roll
+Near artillery impacts: mid-frequency vertical kick (4–7 Hz), 3–5 frame punch
+Tracers near lens: high-frequency micro-vibrations (12–18 Hz)
+Shockwave blasts: camera pushed backward with elastic delay
+Debris impacts: single-frame jolt + 40–60 ms stabilization
+Inertia Model
+Camera behaves like a 5–7 kg steadicam:
+delayed recovery
+sliding momentum on uneven terrain
+slight rolling oscillation after large shocks
+Directional Response
+Explosion left → jolt right + clockwise roll
+Explosion right → jolt left + counterclockwise roll
+Shockwave frontal → backward push + rumbling decay
+Splash below → upward kick
+
+AUDIO — HIGH IMPACT + SUB-BASS SHOCKWAVES
+Massive cinematic war soundscape with deep low-end presence.
+Sub-Bass Shockwave Rules
+Cliff detonations: 33–38 Hz concussive pulses, 0.8–1.2s decay
+Beach shells: 45–55 Hz sharp punches
+Naval guns: 30–33 Hz rolling thunder (1.5–2.0s tail)
+Shockwaves vibrate through the ribbon terrain with a textured paper-flutter undertone.
+Explosion Layering
+High-frequency initial crack (3–5 kHz)
+Midrange body roar (300–600 Hz)
+Sub-bass impact wave (30–55 Hz)
+Ribbon debris hiss (8–12 kHz)
+Bullets & Tracers
+Whizz cracks with Doppler shift
+Micro-sub-bass hits at close passes (60–90 Hz)
+Ribbon debris rain with papery hiss
+
+Ocean & Environment
+Ribbon-surf rumble (80–140 Hz)
+Layered paper-wave rustling
+Filament-smoke: deep airy rolls + granular crackles
+Sync Logic
+Explosions near camera: sub-bass arrives 2 frames before visual bloom
+Mid-distance: 20–40 ms shockwave delay
+Naval guns: visible flash → delay → rolling low-end thunder
+
+CAMERA LANGUAGE
+Dynamic, cinematic, no static frames:
+Sweeping beach-level tracking shots
+Overhead aerial passes of landing craft
+Soldier POV with chaotic shake
+Slow-motion micro-cuts of layered explosions
+Long pullback for finale
+
+SCENE STRUCTURE (15 seconds total)
+P0 — ANCHOR SHOT (0.0–0.3s)
+
+Extreme close-up of a sculpted ribbon-wave folding over itself.
+Camera pulls back to reveal soldiers leaping from a landing craft.
+Subtle micro-shakes as surf crashes.
+
+SCENE 1 — THE BEACH RUN (0.3–3.0s)
+
+Side-tracking shot of soldiers sprinting across ribbon-sand.
+Artillery hits trigger strong vertical kicks and 50 Hz bass punches.
+Tracers rip past lens with high-frequency vibration.
+
+SCENE 2 — LANDING CRAFT CHAOS (3.0–6.5s)
+
+Wide aerial sweep over dozens of ribbon-stacked boats.
+Cliffside explosions peel layers outward in vibrant red/yellow spirals.
+Massive 33 Hz naval gun shockwave rolls through the scene.
+
+SCENE 3 — THE CLIFF ASSAULT (6.5–10.0s)
+
+Low angle. Soldiers scale cliffs made of folded strata.
+Debris bursts cause sideways rocking and elastic recovery.
+Ribbon-rock shears emit deep tearing rumbles (70–120 Hz).
+
+SCENE 4 — SMOKE PUSH FORWARD (10.0–13.5s)
+
+Camera enters dense filament-smoke clouds.
+Distant artillery thumps vibrate through bass floor.
+Soft papery hisses and particle crackles all around.
+
+SCENE 5 — FINAL ZOOM-OUT (13.5–14.6s)
+
+Aerial zoom-out reveals the entire coastline as a massive animated sculpture.
+One final distant artillery blast delivers a slow 32 Hz rolling shockwave.
+Camera stabilizes into silence.
+
+SCENE 6 - END CARD (final 14.6-15.0s)
+
+Background: dark charcoal ribbon layers.
+Embossed text with soft paper emboss shadows:
+
+“D-DAY: THE RIBBON FRONT”
+“History reshaped, one contour at a time.”

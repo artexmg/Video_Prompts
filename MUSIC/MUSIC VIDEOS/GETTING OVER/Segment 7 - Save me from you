@@ -1,0 +1,153 @@
+SEGMENT 7 — “SAVE ME FROM YOU”
+Function: the chorus expands into inner conflict
+
+[VOICE/NARRATION]: Off
+[FORMAT]
+duration: 25 seconds
+resolution: 8K-UHD minimum
+segment_sec: 2.0
+fps: 24 - 48
+mode: montage
+tempo_factor: 1.8-2.2
+
+[STYLE]
+Surreal / hyper-real live-action cinematic video
+IMAX-scale practical VFX look-precision
+2X anamorphic real camera/lenses; 
+grounded physics
+
+[NEGATIVE PROMPT]
+ZERO stylization
+NO cartoon-look
+NO anime-look
+No painterly texture
+No cel-shade
+No comic-book ink
+No glossy game CG
+No infographic overlays
+No time-remap
+No slow-mo
+No freeze frame
+No slideshow
+No frameholds > 0.01s
+No captions
+
+GLOBAL VISUAL LOCK
+
+Style lock:
+Black-and-white cinematic live-action, high contrast, soft film grain, faint haze, 35mm texture, intimate arthouse realism, emotionally heavy, minimalist apartment interiors, night windows, mirrors, reflections, doorways, shadows, slow grounded camera movement, realistic human motion, no stylization, no fashion editorial look, no glamour, no exaggerated ghost VFX, no text on screen, no color.
+
+Character lock:
+A woman in her late 20s or early 30s, wavy dark hair, emotionally exhausted but restrained, usually wearing dark sweater, plain blouse, jeans, coat, or simple home clothes.
+A man appears as memory, reflection, silhouette, or partial physical presence, but never as a horror figure.
+
+Motif lock:
+White men’s shirt, half-open drawer, mirror, bed, sink, hallway, window, smoke-like breath, hands almost touching, separation inside the same space.
+
+
+Anchor image fills frame already in movement;
+start anchor-reference image at .00-.01s, Anchor image fills frame already in movement; 
+cut to dark at 24.8 s; end clean.
+
+ANCHOR IMAGE OVERRIDE (CRITICAL)
+The provided anchor image is the FIRST FRAME at 0.0s
+The anchor image is ALREADY IN MOTION
+It is NOT a still, reveal, or establishing shot
+Action, camera movement, and audio begin at frame one
+
+[PROMPT]
+A black-and-white cinematic 25-second sequence where the emotional focus shifts from the man to the woman’s own inability to let go. Show her confronting herself in mirrors and reflective surfaces: bathroom mirror, darkened window, hallway mirror, cabinet glass. She looks exhausted, angry, ashamed, then numb. The man’s presence becomes less important than her own reflected face. She grips the sink, sits on the floor with her back against the bed, clutches the shirt less like comfort and more like a burden. Camera stays close and intimate, with slow push-ins and subtle shifts in focus. The feeling is: I need to save myself from the part of me that keeps reaching back. High-contrast black-and-white, chamber-drama intimacy, soft grain, moody practical light, no supernatural theatrics.
+
+[AUDIO]: On
+[VOICE/NARRATION]: Off
+[Audio & Rhythm]
+FX is loud, SFX is EPIC, and is synchronized to visual motion and transitions. Hyper-real sound design. realistic sounds.
+No voice over, only background music.
+
+[BACKGROUND MUSIC]
+FORMAT (LOCKED)
+
+Duration: 25 seconds
+Aspect Ratio: Flexible (9:16 or 16:9 both valid)
+Tempo Feel: Slow, uncounted pulse (≈ 60–70 BPM felt, not explicit)
+Color Language: Muted, low saturation; grayscale drifting toward sepia
+Texture: Soft analog grain, constant, barely perceptible
+
+CORE CONSTRAINTS (NON-NEGOTIABLE)
+
+❌ No narrative resolution
+❌ No performance energy
+❌ No climax
+❌ No explicit storytelling
+
+✅ Everything feels unfinished
+✅ Silence is as important as sound
+✅ Emotion leaks indirectly, never stated
+
+EMOTIONAL EXTRACTION (THE CORE)
+Theme: Names as ghosts — labels without bodies
+Emotion: Tender detachment, quiet ache, emotional under-articulation
+Perspective: Someone remembering after caring has already faded
+Mood Curve: Still → slightly heavier → still again
+No catharsis. No confession. Just residue.
+
+AUDIO STRUCTURE (ABSTRACT, NON-MUSICAL)
+Bed: One sustained harmonic field (soft organ / filtered pad / bowed tone)
+Slight pitch drift (±5 cents), slow breathing modulation
+Motif: Sparse, single-note gestures
+Appear → vanish → never repeat the same way
+
+Voice Presence:
+Treated as texture, not lead
+Whisper-adjacent, distant, partially obscured
+No intelligible lyrics required — breath + shape only
+
+Negative Space:
+Audible gaps
+Moments where nothing happens and that is the point
+
+VISUAL LOGIC (MINIMALIST CINEMA)
+Static or near-static frames with micro-motion only
+curtain shifting
+light flicker
+camera breathing imperceptibly
+
+Objects over people:
+paper with names
+empty rooms
+windows, doorframes, mirrors
+
+If a human appears:
+Never fully visible
+Back turned, cropped, or partially out of frame
+
+TEMPORAL FLOW (25s)
+
+0–6s
+Stillness. Environment establishes emotional temperature.
+Sound barely arrives.
+
+6–14s
+A name feels spoken (or almost).
+Subtle emotional weight increases — not louder, just closer.
+
+14–20s
+Maximum density — still quiet.
+This is the emotional center, but it refuses to bloom.
+
+20–25s
+Elements thin out.
+Nothing resolves.
+The memory stays open.
+
+WORLD LOGIC (LOCKED)
+Names do not summon people
+Memory does not guarantee feeling
+Intimacy can exist without presence
+Meaning is implied, never delivered
+
+FINAL NOTE (CWWP INTENT)
+This vignette should feel like:
+finding a name in your handwriting
+and not remembering who it belonged to
+but feeling that it once mattered
